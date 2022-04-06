@@ -33,9 +33,18 @@ plt.switch_backend('agg')
 SWITCH_DATA_PROCESS = False
 SWITCH_PLOTTING     = True
 
-casedir = "/scratch1/BMC/zrtrr/llin/220101_rrfs_dev1/STMP/tmpnwprd/RRFS_CONUS_13km_case54_enkf_20210915_3days"
+
+#CASEID = 54
+#casedir = "/scratch1/BMC/zrtrr/llin/220101_rrfs_dev1/STMP/tmpnwprd/RRFS_CONUS_13km_case54_enkf_20210915_3days"
+#size_cycle  = 24  # number of cycles
+
+CASEID = 53
+casedir = "/scratch1/BMC/zrtrr/llin/220101_rrfs_dev1/STMP/tmpnwprd/RRFS_CONUS_13km_case53_efsoi_20210915_3days"
+size_cycle  = 16  # number of cycles
+
+
 size_member = 20  # size of ensemble members
-size_cycle  = 24  # number of cycles
+
  
 # Cycle time information
 YEAR = '2021'
@@ -57,8 +66,8 @@ FILE_TYPE = 'dyn'
 VARIABLE_STR = 'spfh'
  
 # Figure Title
-#FIGURE_TITLE = 'Ensemble Statistics for Temperature [K]'
-FIGURE_TITLE = 'Ensemble Statistics for Specific Humidity (Layer 65) [m3/m3]'
+#FIGURE_TITLE = 'Ensemble Statistics for 3-h Temperature Fcst (Layer 65) [K]'
+FIGURE_TITLE = 'Ensemble Statistics for 3-h Specific Humidity Fcst (Layer 65) [m3/m3]'
 
 
 #%% =====================================
@@ -70,7 +79,7 @@ if SWITCH_DATA_PROCESS == True:
     ens_avg = np.zeros((size_member,size_cycle))
     ens_std = np.zeros((size_member,size_cycle))
 
-    print("Data Processing for:")
+    print('Case ' + str(CASEID)) 
 
     # Loading variables of interest from each member and each cycle
     for cc in range(0,size_cycle):
@@ -78,7 +87,7 @@ if SWITCH_DATA_PROCESS == True:
         # Construct the time string
         TIME_STR = YEAR + DATE[math.floor(cc/8)] + HOUR[cc%8]
     
-        print('Processing data on ' + TIME_STR)
+        print('Processing ' + VARIABLE_STR +' data on ' + TIME_STR)
     
         for mm in range(0,size_member):
     
@@ -108,7 +117,7 @@ if SWITCH_DATA_PROCESS == True:
              
         
     # Open the pickle file
-    outfile = open('./data_output/ens_stat_'+VARIABLE_STR+'.pkl','wb')
+    outfile = open('./data_output/ens_stat_case'+str(CASEID)+'_'+VARIABLE_STR+'.pkl','wb')
     pickle.dump([ens_avg, ens_std],outfile)
     outfile.close()
 
@@ -119,6 +128,8 @@ if SWITCH_DATA_PROCESS == True:
 #   =====================================
 if SWITCH_PLOTTING == True:
  
+    print('Plotting ' + VARIABLE_STR +' data for Case ' + str(CASEID))
+ 
     # Figure Properties
     left_x = 0.26
     top_y  = 1
@@ -128,7 +139,7 @@ if SWITCH_PLOTTING == True:
     height = 0.8
     
     # Read pickle files
-    infile = open('./data_output/ens_stat_'+VARIABLE_STR+'.pkl','rb')
+    infile = open('./data_output/ens_stat_case'+str(CASEID)+'_'+VARIABLE_STR+'.pkl','rb')
     [ens_avg, ens_std] = pickle.load(infile)
     infile.close()    
                   
@@ -136,20 +147,24 @@ if SWITCH_PLOTTING == True:
     plt.rcParams.update({'font.size': 14})
     fig = plt.subplots(2, 1, figsize=(10, 10))
 
-    #
+    # subplot 01
     ax1 = plt.subplot(2,1,1)
     ax1.set_position([0.13, 0.57, 0.8, 0.38])
-
+    plt.xlim(-0.5,24.5)
+    
+    if VARIABLE_STR == 'tmp':
+        plt.ylim(290,299)
+    else:
+        plt.ylim(0.0094,0.0114)
 
     plt.plot(np.transpose(ens_avg))
 
-    #plt.ylim(290,298)
     plt.grid(True)
     plt.xlabel('Cycles Every 3h From ' + YEAR + DATE[0] + HOUR[0])
     plt.ylabel('Ensemble Mean')
     plt.title(FIGURE_TITLE)
 
-    # 
+    # subplot 02
     ax2 = plt.subplot(2,1,2)
     ax2.set_position([0.13, 0.07, 0.8, 0.38])
 
@@ -157,10 +172,17 @@ if SWITCH_PLOTTING == True:
     plt.grid(True)
     plt.xlabel('Cycles Every 3h From ' + YEAR + DATE[0] + HOUR[0])
     plt.ylabel('Ensemble STD')
+    plt.xlim(-0.5,24.5)
     
+    if VARIABLE_STR == 'tmp':
+        plt.ylim(5,7.5)
+    else:
+        plt.ylim(0.0042,0.0056)
+        
+
    
     #plt.savefig(VARIABLE + '.png',bbox_inches='tight',dpi=300)
-    plt.savefig(VARIABLE_STR + '_layer_' + str(NO_LAYER) + '.png',bbox_inches='tight',dpi=100)
+    plt.savefig(VARIABLE_STR + '_layer_' + str(NO_LAYER) + '_case' + str(CASEID)+'.png',bbox_inches='tight',dpi=100)
     plt.clf()
             
             
