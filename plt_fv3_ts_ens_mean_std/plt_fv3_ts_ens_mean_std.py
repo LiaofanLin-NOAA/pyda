@@ -160,7 +160,7 @@ if SWITCH_PLOTTING == True:
     
    
     #plt.savefig(VARIABLE + '.png',bbox_inches='tight',dpi=300)
-    plt.savefig(VARIABLE_STR + '_layer_' + str(NO_LAYER) + '.png',bbox_inches='tight',dpi=300)
+    plt.savefig(VARIABLE_STR + '_layer_' + str(NO_LAYER) + '.png',bbox_inches='tight',dpi=100)
     plt.clf()
             
             
