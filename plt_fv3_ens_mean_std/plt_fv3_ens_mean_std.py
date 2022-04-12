@@ -6,7 +6,10 @@ Input: FV3 dyn or phy forecast files
 Output: 
 
 History Log:
-   2022.04.08: Liaofan Lin - Created
+   - 2022.04.08: Liaofan Lin - Created
+
+Note:
+   - needs to load the modules for GSL's pygraf before running this scripts
 '''
 
 
