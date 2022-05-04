@@ -1,0 +1,420 @@
+listing gsi hofx v.s. ufo hofx, for
+  - File:/scratch1/BMC/zrtrr/llin/210511_jedi/61_mhu_test/test_v01/case2/output/ufo_sfc_2021010612_t_0000.nc4
+  - ObsYype:surface
+  - Variable: air_temperature
+Numbers of hofx Difference Between GSI and UFO: 3702
+listing done 
+===========================
+listing gsi hofx v.s. ufo hofx, for
+  - File:/scratch1/BMC/zrtrr/llin/210511_jedi/61_mhu_test/test_v01/case2/output/ufo_sfc_2021010612_q_0000.nc4
+  - ObsYype:surface
+  - Variable: specific_humidity
+Numbers of hofx Difference Between GSI and UFO: 3688
+n= 5  SID=[b'K' b'N' b'S' b'I' b' ']  diff= -0.0009240033  ufo= 0.008407627  gsi= 0.007483624 lat= 33.22  lon= 240.55  otype= 187  oflag= -1  height= 156.0  oele= 154.0
+n= 15  SID=[b'K' b'A' b'V' b'X' b' ']  diff= -0.00065706763  ufo= 0.0046864157  gsi= 0.004029348 lat= 33.4  lon= 241.59  otype= 187  oflag= -1  height= 490.0  oele= 488.0
+n= 21  SID=[b'K' b'S' b'D' b'B' b' ']  diff= -0.0006266041  ufo= 0.0027878464  gsi= 0.0021612423 lat= 34.75  lon= 241.27  otype= 187  oflag= -1  height= 1381.0  oele= 1379.0
+n= 147  SID=[b'K' b'S' b'X' b'T' b' ']  diff= -0.0008544198  ufo= 0.003399386  gsi= 0.0025449663 lat= 42.62  lon= 236.63  otype= 187  oflag= -1  height= 1173.0  oele= 1171.0
+n= 735  SID=[b'K' b'4' b'B' b'M' b' ']  diff= -0.0005100664  ufo= 0.0011316509  gsi= 0.0006215845 lat= 39.04  lon= 254.48  otype= 187  oflag= -1  height= 3440.0  oele= 3438.0
+n= 746  SID=[b'K' b'4' b'B' b'M' b' ']  diff= -0.0005100664  ufo= 0.0011316509  gsi= 0.0006215845 lat= 39.04  lon= 254.48  otype= 187  oflag= -1  height= 3440.0  oele= 3438.0
+n= 1051  SID=[b'K' b'C' b'B' b'K' b' ']  diff= -0.0032265808  ufo= 0.003235318  gsi= 8.737223e-06 lat= 39.43  lon= 258.95  otype= 187  oflag= -1  height= --  oele= --
+n= 1059  SID=[b'K' b'C' b'B' b'K' b' ']  diff= -0.0032265808  ufo= 0.003235318  gsi= 8.737223e-06 lat= 39.43  lon= 258.95  otype= 187  oflag= -1  height= --  oele= --
+listing done 
+===========================
+listing gsi hofx v.s. ufo hofx, for
+  - File:/scratch1/BMC/zrtrr/llin/210511_jedi/61_mhu_test/test_v01/case2/output/ufo_sfc_2021010612_uv_0000.nc4
+  - ObsYype:surface
+  - Variable: eastward_wind
+Numbers of hofx Difference Between GSI and UFO: 635
+n= 1  SID=[b'K' b'D' b'M' b'A' b' ']  diff= 0.0006376505  ufo= -1.7663827  gsi= -1.765745 lat= 32.17  lon= 249.12  otype= 287  oflag= -1  height= 834.0  oele= 824.0
+n= 34  SID=[b'7' b'2' b'2' b'7' b'0']  diff= -0.0007227063  ufo= -0.56872207  gsi= -0.5694448 lat= 31.80667  lon= 253.62279  otype= 281  oflag= -1  height= 1204.0  oele= 1194.0
+n= 35  SID=[b'K' b'E' b'L' b'P' b' ']  diff= -0.0006825924  ufo= -0.65303075  gsi= -0.65371335 lat= 31.8  lon= 253.6  otype= 287  oflag= -1  height= 1204.0  oele= 1194.0
+n= 36  SID=[b'K' b'B' b'I' b'F' b' ']  diff= -0.00084879994  ufo= -0.249733  gsi= -0.2505818 lat= 31.85  lon= 253.62  otype= 287  oflag= -1  height= 1214.0  oele= 1204.0
+n= 43  SID=[b'K' b'J' b'T' b'C' b' ']  diff= -0.0006182194  ufo= 2.6685748  gsi= 2.6679566 lat= 34.13  lon= 250.69  otype= 287  oflag= -1  height= 2160.0  oele= 2150.0
+n= 49  SID=[b'K' b'0' b'E' b'0' b' ']  diff= -0.0008416176  ufo= 2.537775  gsi= 2.5369334 lat= 34.97  lon= 254.0  otype= 287  oflag= -1  height= 1899.0  oele= 1889.0
+n= 57  SID=[b'K' b'J' b'T' b'C' b' ']  diff= -0.0006182194  ufo= 2.6685748  gsi= 2.6679566 lat= 34.13  lon= 250.69  otype= 287  oflag= -1  height= 2160.0  oele= 2150.0
+n= 58  SID=[b'K' b'0' b'E' b'0' b' ']  diff= -0.0008416176  ufo= 2.537775  gsi= 2.5369334 lat= 34.97  lon= 254.0  otype= 287  oflag= -1  height= 1899.0  oele= 1889.0
+n= 100  SID=[b'K' b'R' b'K' b'S' b' ']  diff= -0.0006432533  ufo= 4.9962764  gsi= 4.995633 lat= 41.6  lon= 250.93  otype= 287  oflag= -1  height= 2070.0  oele= 2060.0
+n= 130  SID=[b'K' b'C' b'O' b'D' b' ']  diff= -0.00052404404  ufo= 4.3484964  gsi= 4.3479724 lat= 44.52  lon= 250.98  otype= 287  oflag= -1  height= 1563.0  oele= 1553.0
+n= 186  SID=[b'K' b'I' b'M' b'L' b' ']  diff= -0.00073194504  ufo= 4.2094445  gsi= 4.2087126 lat= 40.52  lon= 258.38  otype= 287  oflag= -1  height= 1007.0  oele= 997.0
+n= 190  SID=[b'K' b'O' b'G' b'A' b' ']  diff= -0.0005598068  ufo= 4.088485  gsi= 4.087925 lat= 41.12  lon= 258.23  otype= 287  oflag= -1  height= 1009.0  oele= 999.0
+n= 194  SID=[b'K' b'O' b'N' b'L' b' ']  diff= -0.00057673454  ufo= 3.1697047  gsi= 3.169128 lat= 42.47  lon= 261.32  otype= 287  oflag= -1  height= 629.0  oele= 619.0
+n= 201  SID=[b'K' b'L' b'X' b'N' b' ']  diff= -0.00055933  ufo= 2.495015  gsi= 2.4944556 lat= 40.79  lon= 260.22  otype= 287  oflag= -1  height= 746.0  oele= 736.0
+n= 206  SID=[b'K' b'O' b'N' b'L' b' ']  diff= -0.00057673454  ufo= 3.1697047  gsi= 3.169128 lat= 42.47  lon= 261.32  otype= 287  oflag= -1  height= 629.0  oele= 619.0
+n= 210  SID=[b'K' b'M' b'C' b'K' b' ']  diff= -0.00055241585  ufo= 2.9236817  gsi= 2.9231293 lat= 40.2  lon= 259.42  otype= 287  oflag= -1  height= 796.0  oele= 786.0
+n= 212  SID=[b'K' b'L' b'X' b'N' b' ']  diff= -0.00055933  ufo= 2.495015  gsi= 2.4944556 lat= 40.79  lon= 260.22  otype= 287  oflag= -1  height= 746.0  oele= 736.0
+n= 216  SID=[b'K' b'O' b'G' b'A' b' ']  diff= -0.0005598068  ufo= 4.088485  gsi= 4.087925 lat= 41.12  lon= 258.23  otype= 287  oflag= -1  height= 1009.0  oele= 999.0
+n= 245  SID=[b'K' b'E' b'V' b'U' b' ']  diff= 0.00081539154  ufo= -3.6705635  gsi= -3.669748 lat= 40.35  lon= 265.09  otype= 287  oflag= -1  height= 359.0  oele= 349.0
+n= 247  SID=[b'K' b'R' b'D' b'K' b' ']  diff= 0.0007645488  ufo= -0.0809048  gsi= -0.08014025 lat= 41.02  lon= 264.73  otype= 287  oflag= -1  height= 328.0  oele= 318.0
+n= 248  SID=[b'K' b'C' b'S' b'Q' b' ']  diff= 0.0007481575  ufo= -3.5707834  gsi= -3.5700352 lat= 41.02  lon= 265.63  otype= 287  oflag= -1  height= 404.0  oele= 394.0
+n= 249  SID=[b'K' b'C' b'N' b'C' b' ']  diff= 0.0008635521  ufo= -4.254145  gsi= -4.2532816 lat= 41.03  lon= 266.63  otype= 287  oflag= -1  height= 330.0  oele= 320.0
+n= 251  SID=[b'K' b'P' b'E' b'A' b' ']  diff= 0.0006098747  ufo= -3.3450086  gsi= -3.3443987 lat= 41.4  lon= 267.05  otype= 287  oflag= -1  height= 280.0  oele= 270.0
+n= 254  SID=[b'K' b'I' b'K' b'V' b' ']  diff= 0.0005517006  ufo= -4.4469566  gsi= -4.446405 lat= 41.69  lon= 266.43  otype= 287  oflag= -1  height= 287.0  oele= 277.0
+n= 255  SID=[b'K' b'P' b'R' b'O' b' ']  diff= 0.0006480217  ufo= -4.397047  gsi= -4.396399 lat= 41.83  lon= 265.84  otype= 287  oflag= -1  height= 319.0  oele= 309.0
+n= 257  SID=[b'K' b'C' b'I' b'N' b' ']  diff= 0.00069117546  ufo= -3.444387  gsi= -3.4436958 lat= 42.05  lon= 265.22  otype= 287  oflag= -1  height= 385.0  oele= 375.0
+n= 265  SID=[b'K' b'B' b'I' b'E' b' ']  diff= 0.00058221817  ufo= -1.9405751  gsi= -1.9399929 lat= 40.29  lon= 263.25  otype= 287  oflag= -1  height= 413.0  oele= 403.0
+n= 266  SID=[b'K' b'E' b'V' b'U' b' ']  diff= 0.00081539154  ufo= -3.6705635  gsi= -3.669748 lat= 40.35  lon= 265.09  otype= 287  oflag= -1  height= 359.0  oele= 349.0
+n= 267  SID=[b'K' b'A' b'F' b'K' b' ']  diff= 0.00055480003  ufo= -3.0640814  gsi= -3.0635266 lat= 40.61  lon= 264.13  otype= 287  oflag= -1  height= 364.0  oele= 354.0
+n= 268  SID=[b'K' b'I' b'C' b'L' b' ']  diff= 0.0011225939  ufo= -1.5493277  gsi= -1.5482051 lat= 40.72  lon= 264.97  otype= 287  oflag= -1  height= 313.0  oele= 303.0
+n= 269  SID=[b'K' b'S' b'D' b'A' b' ']  diff= 0.00055217743  ufo= -2.159229  gsi= -2.1586769 lat= 40.75  lon= 264.58  otype= 287  oflag= -1  height= 306.0  oele= 296.0
+n= 270  SID=[b'K' b'P' b'M' b'V' b' ']  diff= 0.0005414486  ufo= -3.293063  gsi= -3.2925215 lat= 40.95  lon= 264.09  otype= 287  oflag= -1  height= 377.0  oele= 367.0
+n= 271  SID=[b'K' b'R' b'D' b'K' b' ']  diff= 0.0007645488  ufo= -0.0809048  gsi= -0.08014025 lat= 41.02  lon= 264.73  otype= 287  oflag= -1  height= 328.0  oele= 318.0
+n= 272  SID=[b'K' b'I' b'7' b'5' b' ']  diff= 0.00086450577  ufo= -3.3043754  gsi= -3.303511 lat= 41.05  lon= 266.32  otype= 287  oflag= -1  height= 349.0  oele= 339.0
+n= 273  SID=[b'K' b'O' b'F' b'F' b' ']  diff= 0.0005540848  ufo= -2.7722557  gsi= -2.7717016 lat= 41.12  lon= 264.08  otype= 287  oflag= -1  height= 329.0  oele= 319.0
+n= 275  SID=[b'K' b'C' b'B' b'F' b' ']  diff= 0.0006377697  ufo= -3.0812085  gsi= -3.0805707 lat= 41.27  lon= 264.23  otype= 287  oflag= -1  height= 392.0  oele= 382.0
+n= 277  SID=[b'K' b'O' b'X' b'V' b' ']  diff= 0.00073194504  ufo= -3.976854  gsi= -3.9761221 lat= 41.3  lon= 266.88  otype= 287  oflag= -1  height= 293.0  oele= 283.0
+n= 278  SID=[b'K' b'A' b'I' b'O' b' ']  diff= 0.00075030327  ufo= -2.2578652  gsi= -2.257115 lat= 41.4  lon= 264.95  otype= 287  oflag= -1  height= 370.0  oele= 360.0
+n= 279  SID=[b'K' b'P' b'E' b'A' b' ']  diff= 0.0006098747  ufo= -3.3450086  gsi= -3.3443987 lat= 41.4  lon= 267.05  otype= 287  oflag= -1  height= 280.0  oele= 270.0
+n= 281  SID=[b'K' b'A' b'D' b'U' b' ']  diff= 0.0007879734  ufo= -3.5215476  gsi= -3.5207596 lat= 41.7  lon= 265.08  otype= 287  oflag= -1  height= 402.0  oele= 392.0
+n= 283  SID=[b'K' b'P' b'R' b'O' b' ']  diff= 0.0006480217  ufo= -4.397047  gsi= -4.396399 lat= 41.83  lon= 265.84  otype= 287  oflag= -1  height= 319.0  oele= 309.0
+n= 285  SID=[b'K' b'B' b'N' b'W' b' ']  diff= 0.0005841255  ufo= -4.6440144  gsi= -4.64343 lat= 42.05  lon= 266.15  otype= 287  oflag= -1  height= 364.0  oele= 354.0
+n= 290  SID=[b'K' b'B' b'I' b'E' b' ']  diff= 0.00058221817  ufo= -1.9405751  gsi= -1.9399929 lat= 40.29  lon= 263.25  otype= 287  oflag= -1  height= 413.0  oele= 403.0
+n= 291  SID=[b'K' b'A' b'F' b'K' b' ']  diff= 0.00055480003  ufo= -3.0640814  gsi= -3.0635266 lat= 40.61  lon= 264.13  otype= 287  oflag= -1  height= 364.0  oele= 354.0
+n= 292  SID=[b'K' b'L' b'W' b'D' b' ']  diff= 0.0006430149  ufo= -2.7050722  gsi= -2.7044291 lat= 40.63  lon= 266.1  otype= 287  oflag= -1  height= 355.0  oele= 345.0
+n= 293  SID=[b'K' b'I' b'C' b'L' b' ']  diff= 0.0011225939  ufo= -1.5493277  gsi= -1.5482051 lat= 40.72  lon= 264.97  otype= 287  oflag= -1  height= 313.0  oele= 303.0
+n= 294  SID=[b'K' b'S' b'D' b'A' b' ']  diff= 0.00055217743  ufo= -2.159229  gsi= -2.1586769 lat= 40.75  lon= 264.58  otype= 287  oflag= -1  height= 306.0  oele= 296.0
+n= 295  SID=[b'K' b'P' b'M' b'V' b' ']  diff= 0.0005414486  ufo= -3.293063  gsi= -3.2925215 lat= 40.95  lon= 264.09  otype= 287  oflag= -1  height= 377.0  oele= 367.0
+n= 296  SID=[b'K' b'C' b'S' b'Q' b' ']  diff= 0.0007481575  ufo= -3.5707834  gsi= -3.5700352 lat= 41.02  lon= 265.63  otype= 287  oflag= -1  height= 404.0  oele= 394.0
+n= 297  SID=[b'K' b'C' b'N' b'C' b' ']  diff= 0.0008635521  ufo= -4.254145  gsi= -4.2532816 lat= 41.03  lon= 266.63  otype= 287  oflag= -1  height= 330.0  oele= 320.0
+n= 298  SID=[b'K' b'I' b'7' b'5' b' ']  diff= 0.00086450577  ufo= -3.3043754  gsi= -3.303511 lat= 41.05  lon= 266.32  otype= 287  oflag= -1  height= 349.0  oele= 339.0
+n= 300  SID=[b'K' b'C' b'B' b'F' b' ']  diff= 0.0006377697  ufo= -3.0812085  gsi= -3.0805707 lat= 41.27  lon= 264.23  otype= 287  oflag= -1  height= 392.0  oele= 382.0
+n= 301  SID=[b'K' b'O' b'X' b'V' b' ']  diff= 0.00073194504  ufo= -3.976854  gsi= -3.9761221 lat= 41.3  lon= 266.88  otype= 287  oflag= -1  height= 293.0  oele= 283.0
+n= 302  SID=[b'K' b'A' b'I' b'O' b' ']  diff= 0.00075030327  ufo= -2.2578652  gsi= -2.257115 lat= 41.4  lon= 264.95  otype= 287  oflag= -1  height= 370.0  oele= 360.0
+n= 306  SID=[b'K' b'D' b'S' b'M' b' ']  diff= 0.0006489754  ufo= -4.2161984  gsi= -4.2155495 lat= 41.53  lon= 266.35  otype= 287  oflag= -1  height= 304.0  oele= 294.0
+n= 308  SID=[b'K' b'I' b'K' b'V' b' ']  diff= 0.0005517006  ufo= -4.4469566  gsi= -4.446405 lat= 41.69  lon= 266.43  otype= 287  oflag= -1  height= 287.0  oele= 277.0
+n= 309  SID=[b'K' b'A' b'D' b'U' b' ']  diff= 0.0007879734  ufo= -3.5215476  gsi= -3.5207596 lat= 41.7  lon= 265.08  otype= 287  oflag= -1  height= 402.0  oele= 392.0
+n= 311  SID=[b'K' b'C' b'I' b'N' b' ']  diff= 0.00069117546  ufo= -3.444387  gsi= -3.4436958 lat= 42.05  lon= 265.22  otype= 287  oflag= -1  height= 385.0  oele= 375.0
+n= 312  SID=[b'K' b'B' b'N' b'W' b' ']  diff= 0.0005841255  ufo= -4.6440144  gsi= -4.64343 lat= 42.05  lon= 266.15  otype= 287  oflag= -1  height= 364.0  oele= 354.0
+n= 313  SID=[b'K' b'M' b'I' b'W' b' ']  diff= 0.00051641464  ufo= -3.0035365  gsi= -3.00302 lat= 42.11  lon= 267.08  otype= 287  oflag= -1  height= 307.0  oele= 297.0
+n= 318  SID=[b'7' b'2' b'5' b'4' b'6']  diff= 0.0006389618  ufo= -4.1293654  gsi= -4.1287265 lat= 41.53389  lon= 266.3375  otype= 281  oflag= -1  height= 304.0  oele= 294.0
+n= 341  SID=[b'K' b'F' b'D' b'W' b' ']  diff= 0.00053852797  ufo= -0.884794  gsi= -0.88425547 lat= 34.32  lon= 278.88  otype= 287  oflag= -1  height= 186.0  oele= 176.0
+n= 344  SID=[b'K' b'D' b'C' b'M' b' ']  diff= 0.0007814169  ufo= -0.8358466  gsi= -0.8350652 lat= 34.79  lon= 278.81  otype= 287  oflag= -1  height= 210.0  oele= 200.0
+n= 345  SID=[b'K' b'L' b'Q' b'K' b' ']  diff= 0.0006471127  ufo= 0.23206213  gsi= 0.23270924 lat= 34.81  lon= 277.3  otype= 287  oflag= -1  height= 319.0  oele= 309.0
+n= 351  SID=[b'K' b'C' b'L' b'T' b' ']  diff= 0.0006058812  ufo= -0.7564758  gsi= -0.7558699 lat= 35.22  lon= 279.05  otype= 287  oflag= -1  height= 238.0  oele= 228.0
+n= 353  SID=[b'K' b'M' b'M' b'I' b' ']  diff= 0.0005569458  ufo= -1.0017093  gsi= -1.0011524 lat= 35.4  lon= 275.43  otype= 287  oflag= -1  height= 276.0  oele= 266.0
+n= 368  SID=[b'K' b'G' b'R' b'D' b' ']  diff= 0.0013123751  ufo= -1.2591459  gsi= -1.2578335 lat= 34.25  lon= 277.84  otype= 287  oflag= -1  height= 202.0  oele= 192.0
+n= 369  SID=[b'K' b'A' b'N' b'D' b' ']  diff= 0.0016956925  ufo= 0.17576763  gsi= 0.17746332 lat= 34.5  lon= 277.28  otype= 287  oflag= -1  height= 248.0  oele= 238.0
+n= 370  SID=[b'K' b'L' b'U' b'X' b' ']  diff= 0.0008585453  ufo= -1.0797609  gsi= -1.0789024 lat= 34.5  lon= 278.05  otype= 287  oflag= -1  height= 222.0  oele= 212.0
+n= 372  SID=[b'K' b'L' b'Q' b'K' b' ']  diff= 0.0006471127  ufo= 0.23206213  gsi= 0.23270924 lat= 34.81  lon= 277.3  otype= 287  oflag= -1  height= 319.0  oele= 309.0
+n= 374  SID=[b'K' b'U' b'Z' b'A' b' ']  diff= 0.00056272745  ufo= -0.46756345  gsi= -0.46700072 lat= 34.99  lon= 278.94  otype= 287  oflag= -1  height= 213.0  oele= 203.0
+n= 378  SID=[b'K' b'I' b'P' b'J' b' ']  diff= 0.00065916777  ufo= -0.8048325  gsi= -0.80417335 lat= 35.47  lon= 278.84  otype= 287  oflag= -1  height= 277.0  oele= 267.0
+n= 394  SID=[b'K' b'F' b'D' b'W' b' ']  diff= 0.00053852797  ufo= -0.884794  gsi= -0.88425547 lat= 34.32  lon= 278.88  otype= 287  oflag= -1  height= 186.0  oele= 176.0
+n= 395  SID=[b'K' b'L' b'U' b'X' b' ']  diff= 0.0008585453  ufo= -1.0797609  gsi= -1.0789024 lat= 34.5  lon= 278.05  otype= 287  oflag= -1  height= 222.0  oele= 212.0
+n= 399  SID=[b'K' b'D' b'C' b'M' b' ']  diff= 0.0007814169  ufo= -0.8358466  gsi= -0.8350652 lat= 34.79  lon= 278.81  otype= 287  oflag= -1  height= 210.0  oele= 200.0
+n= 405  SID=[b'K' b'M' b'M' b'I' b' ']  diff= 0.0005569458  ufo= -1.0017093  gsi= -1.0011524 lat= 35.4  lon= 275.43  otype= 287  oflag= -1  height= 276.0  oele= 266.0
+n= 406  SID=[b'K' b'A' b'V' b'L' b' ']  diff= -0.00051760674  ufo= 2.4080489  gsi= 2.4075313 lat= 35.43  lon= 277.45  otype= 287  oflag= -1  height= 671.0  oele= 661.0
+n= 408  SID=[b'K' b'I' b'P' b'J' b' ']  diff= 0.00065916777  ufo= -0.8048325  gsi= -0.80417335 lat= 35.47  lon= 278.84  otype= 287  oflag= -1  height= 277.0  oele= 267.0
+n= 425  SID=[b'7' b'2' b'3' b'1' b'4']  diff= 0.0006227493  ufo= -0.749143  gsi= -0.74852026 lat= 35.21389  lon= 279.05695  otype= 281  oflag= -1  height= 244.0  oele= 234.0
+n= 429  SID=[b'K' b'L' b'W' b'B' b' ']  diff= -0.0005221367  ufo= 2.2724957  gsi= 2.2719736 lat= 37.86  lon= 279.6  otype= 287  oflag= -1  height= 712.0  oele= 702.0
+n= 448  SID=[b'K' b'F' b'D' b'Y' b' ']  diff= -0.0005296469  ufo= 1.21626  gsi= 1.2157303 lat= 41.02  lon= 276.33  otype= 287  oflag= -1  height= 257.0  oele= 247.0
+n= 452  SID=[b'K' b'L' b'W' b'B' b' ']  diff= -0.0005221367  ufo= 2.2724957  gsi= 2.2719736 lat= 37.86  lon= 279.6  otype= 287  oflag= -1  height= 712.0  oele= 702.0
+n= 523  SID=[b'K' b'E' b'Y' b'F' b' ']  diff= -0.0006701946  ufo= 1.1708622  gsi= 1.170192 lat= 34.6  lon= 281.42  otype= 287  oflag= -1  height= 50.0  oele= 40.0
+n= 527  SID=[b'K' b'P' b'O' b'B' b' ']  diff= -0.0005031824  ufo= 1.2199268  gsi= 1.2194237 lat= 35.15  lon= 280.99  otype= 287  oflag= -1  height= 76.0  oele= 66.0
+n= 528  SID=[b'K' b'S' b'O' b'P' b' ']  diff= -0.00060129166  ufo= 1.6385751  gsi= 1.6379738 lat= 35.22  lon= 280.6  otype= 287  oflag= -1  height= 151.0  oele= 141.0
+n= 530  SID=[b'K' b'H' b'R' b'J' b' ']  diff= -0.0006453693  ufo= -0.4046793  gsi= -0.40532467 lat= 35.38  lon= 281.27  otype= 287  oflag= -1  height= 70.0  oele= 60.0
+n= 532  SID=[b'K' b'G' b'W' b'W' b' ']  diff= -0.0007673502  ufo= 0.73705035  gsi= 0.736283 lat= 35.46  lon= 282.05  otype= 287  oflag= -1  height= 51.0  oele= 41.0
+n= 533  SID=[b'K' b'J' b'N' b'X' b' ']  diff= -0.00056886673  ufo= 1.3270482  gsi= 1.3264793 lat= 35.54  lon= 281.61  otype= 287  oflag= -1  height= 60.0  oele= 50.0
+n= 534  SID=[b'K' b'T' b'T' b'A' b' ']  diff= -0.00060915947  ufo= 1.0978497  gsi= 1.0972406 lat= 35.58  lon= 280.91  otype= 287  oflag= -1  height= 85.0  oele= 75.0
+n= 535  SID=[b'K' b'P' b'G' b'V' b' ']  diff= -0.0012960434  ufo= 1.8490517  gsi= 1.8477557 lat= 35.63  lon= 282.6  otype= 287  oflag= -1  height= 18.0  oele= 8.0
+n= 539  SID=[b'K' b'E' b'X' b'X' b' ']  diff= -0.0005620718  ufo= 0.67510545  gsi= 0.6745434 lat= 35.78  lon= 279.7  otype= 287  oflag= -1  height= 233.0  oele= 223.0
+n= 540  SID=[b'K' b'R' b'W' b'I' b' ']  diff= -0.0006381273  ufo= 1.1402423  gsi= 1.1396042 lat= 35.85  lon= 282.1  otype= 287  oflag= -1  height= 58.0  oele= 48.0
+n= 541  SID=[b'K' b'E' b'T' b'C' b' ']  diff= -0.0010397434  ufo= 1.9509943  gsi= 1.9499545 lat= 35.93  lon= 282.46  otype= 287  oflag= -1  height= 26.0  oele= 16.0
+n= 543  SID=[b'K' b'E' b'D' b'E' b' ']  diff= -0.0011162758  ufo= 2.7415369  gsi= 2.7404206 lat= 36.03  lon= 283.44  otype= 287  oflag= -1  height= 16.0  oele= 6.0
+n= 545  SID=[b'K' b'T' b'D' b'F' b' ']  diff= -0.0007455349  ufo= 1.0891724  gsi= 1.0884268 lat= 36.28  lon= 281.02  otype= 287  oflag= -1  height= 196.0  oele= 186.0
+n= 546  SID=[b'K' b'I' b'X' b'A' b' ']  diff= -0.00079095364  ufo= 1.8335245  gsi= 1.8327335 lat= 36.33  lon= 282.36  otype= 287  oflag= -1  height= 54.0  oele= 44.0
+n= 551  SID=[b'K' b'A' b'V' b'C' b' ']  diff= -0.0005195141  ufo= 1.4360148  gsi= 1.4354953 lat= 36.69  lon= 281.95  otype= 287  oflag= -1  height= 145.0  oele= 135.0
+n= 568  SID=[b'K' b'D' b'P' b'L' b' ']  diff= -0.00074869394  ufo= 0.758478  gsi= 0.7577293 lat= 35.0  lon= 282.02  otype= 287  oflag= -1  height= 52.0  oele= 42.0
+n= 570  SID=[b'K' b'F' b'B' b'G' b' ']  diff= -0.00083839893  ufo= 1.4478021  gsi= 1.4469637 lat= 35.13  lon= 281.07  otype= 287  oflag= -1  height= 84.0  oele= 74.0
+n= 571  SID=[b'K' b'H' b'R' b'J' b' ']  diff= -0.0006453693  ufo= -0.4046793  gsi= -0.40532467 lat= 35.38  lon= 281.27  otype= 287  oflag= -1  height= 70.0  oele= 60.0
+n= 573  SID=[b'K' b'G' b'W' b'W' b' ']  diff= -0.0007673502  ufo= 0.73705035  gsi= 0.736283 lat= 35.46  lon= 282.05  otype= 287  oflag= -1  height= 51.0  oele= 41.0
+n= 574  SID=[b'K' b'J' b'N' b'X' b' ']  diff= -0.00056886673  ufo= 1.3270482  gsi= 1.3264793 lat= 35.54  lon= 281.61  otype= 287  oflag= -1  height= 60.0  oele= 50.0
+n= 575  SID=[b'K' b'O' b'C' b'W' b' ']  diff= -0.0009551048  ufo= 1.137056  gsi= 1.1361009 lat= 35.57  lon= 282.95  otype= 287  oflag= -1  height= 22.0  oele= 12.0
+n= 577  SID=[b'K' b'E' b'D' b'E' b' ']  diff= -0.0011162758  ufo= 2.7415369  gsi= 2.7404206 lat= 36.03  lon= 283.44  otype= 287  oflag= -1  height= 16.0  oele= 6.0
+n= 580  SID=[b'K' b'T' b'D' b'F' b' ']  diff= -0.0007455349  ufo= 1.0891724  gsi= 1.0884268 lat= 36.28  lon= 281.02  otype= 287  oflag= -1  height= 196.0  oele= 186.0
+n= 581  SID=[b'K' b'A' b'S' b'J' b' ']  diff= -0.0009857416  ufo= 1.6811721  gsi= 1.6801864 lat= 36.29  lon= 282.83  otype= 287  oflag= -1  height= 31.0  oele= 21.0
+n= 582  SID=[b'K' b'I' b'X' b'A' b' ']  diff= -0.00079095364  ufo= 1.8335245  gsi= 1.8327335 lat= 36.33  lon= 282.36  otype= 287  oflag= -1  height= 54.0  oele= 44.0
+n= 587  SID=[b'K' b'E' b'M' b'V' b' ']  diff= -0.0008497238  ufo= 1.3740388  gsi= 1.3731891 lat= 36.69  lon= 282.52  otype= 287  oflag= -1  height= 49.0  oele= 39.0
+n= 595  SID=[b'K' b'E' b'Y' b'F' b' ']  diff= -0.0006701946  ufo= 1.1708622  gsi= 1.170192 lat= 34.6  lon= 281.42  otype= 287  oflag= -1  height= 50.0  oele= 40.0
+n= 604  SID=[b'K' b'D' b'P' b'L' b' ']  diff= -0.00074869394  ufo= 0.758478  gsi= 0.7577293 lat= 35.0  lon= 282.02  otype= 287  oflag= -1  height= 52.0  oele= 42.0
+n= 607  SID=[b'K' b'E' b'W' b'N' b' ']  diff= -0.0007187128  ufo= 1.2304711  gsi= 1.2297524 lat= 35.07  lon= 282.95  otype= 287  oflag= -1  height= 16.0  oele= 6.0
+n= 608  SID=[b'K' b'G' b'S' b'B' b' ']  diff= -0.0007291436  ufo= 0.644225  gsi= 0.64349586 lat= 35.33  lon= 282.03  otype= 287  oflag= -1  height= 43.0  oele= 33.0
+n= 609  SID=[b'K' b'I' b'S' b'O' b' ']  diff= -0.00093245506  ufo= 1.7105286  gsi= 1.7095962 lat= 35.33  lon= 282.38  otype= 287  oflag= -1  height= 39.0  oele= 29.0
+n= 610  SID=[b'K' b'O' b'C' b'W' b' ']  diff= -0.0009551048  ufo= 1.137056  gsi= 1.1361009 lat= 35.57  lon= 282.95  otype= 287  oflag= -1  height= 22.0  oele= 12.0
+n= 611  SID=[b'K' b'T' b'T' b'A' b' ']  diff= -0.00060915947  ufo= 1.0978497  gsi= 1.0972406 lat= 35.58  lon= 280.91  otype= 287  oflag= -1  height= 85.0  oele= 75.0
+n= 612  SID=[b'K' b'P' b'G' b'V' b' ']  diff= -0.0012960434  ufo= 1.8490517  gsi= 1.8477557 lat= 35.63  lon= 282.6  otype= 287  oflag= -1  height= 18.0  oele= 8.0
+n= 615  SID=[b'K' b'E' b'X' b'X' b' ']  diff= -0.0005620718  ufo= 0.67510545  gsi= 0.6745434 lat= 35.78  lon= 279.7  otype= 287  oflag= -1  height= 233.0  oele= 223.0
+n= 616  SID=[b'K' b'E' b'T' b'C' b' ']  diff= -0.0010397434  ufo= 1.9509943  gsi= 1.9499545 lat= 35.93  lon= 282.46  otype= 287  oflag= -1  height= 26.0  oele= 16.0
+n= 618  SID=[b'K' b'B' b'U' b'Y' b' ']  diff= -0.00050753355  ufo= 0.7156546  gsi= 0.7151471 lat= 36.04  lon= 280.53  otype= 287  oflag= -1  height= 198.0  oele= 188.0
+n= 619  SID=[b'K' b'A' b'S' b'J' b' ']  diff= -0.0009857416  ufo= 1.6811721  gsi= 1.6801864 lat= 36.29  lon= 282.83  otype= 287  oflag= -1  height= 31.0  oele= 21.0
+n= 620  SID=[b'K' b'D' b'A' b'N' b' ']  diff= -0.0010279417  ufo= 1.9617751  gsi= 1.9607471 lat= 36.57  lon= 280.67  otype= 287  oflag= -1  height= 184.0  oele= 174.0
+n= 621  SID=[b'K' b'A' b'V' b'C' b' ']  diff= -0.0005195141  ufo= 1.4360148  gsi= 1.4354953 lat= 36.69  lon= 281.95  otype= 287  oflag= -1  height= 145.0  oele= 135.0
+n= 622  SID=[b'K' b'E' b'M' b'V' b' ']  diff= -0.0008497238  ufo= 1.3740388  gsi= 1.3731891 lat= 36.69  lon= 282.52  otype= 287  oflag= -1  height= 49.0  oele= 39.0
+listing done 
+===========================
+listing gsi hofx v.s. ufo hofx, for
+  - File:/scratch1/BMC/zrtrr/llin/210511_jedi/61_mhu_test/test_v01/case2/output/ufo_sfc_2021010612_uv_0000.nc4
+  - ObsYype:surface
+  - Variable: northward_wind
+Numbers of hofx Difference Between GSI and UFO: 635
+n= 1  SID=[b'K' b'D' b'M' b'A' b' ']  diff= -0.0009446144  ufo= 2.2776785  gsi= 2.2767339 lat= 32.17  lon= 249.12  otype= 287  oflag= -1  height= 834.0  oele= 824.0
+n= 2  SID=[b'K' b'A' b'V' b'Q' b' ']  diff= -0.0007236004  ufo= 1.3972042  gsi= 1.3964806 lat= 32.4  lon= 248.79  otype= 287  oflag= -1  height= 629.0  oele= 619.0
+n= 4  SID=[b'K' b'G' b'X' b'F' b' ']  diff= 0.0005902499  ufo= -0.20678477  gsi= -0.20619452 lat= 32.88  lon= 247.29  otype= 287  oflag= -1  height= 272.0  oele= 262.0
+n= 6  SID=[b'7' b'2' b'2' b'7' b'4']  diff= -0.00064206123  ufo= 1.7201271  gsi= 1.719485 lat= 32.13139  lon= 249.04472  otype= 281  oflag= -1  height= 757.0  oele= 747.0
+n= 10  SID=[b'K' b'T' b'U' b'S' b' ']  diff= -0.0006337166  ufo= 1.6905628  gsi= 1.6899291 lat= 32.13  lon= 249.04  otype= 287  oflag= -1  height= 815.0  oele= 805.0
+n= 11  SID=[b'K' b'A' b'V' b'Q' b' ']  diff= -0.0007236004  ufo= 1.3972042  gsi= 1.3964806 lat= 32.4  lon= 248.79  otype= 287  oflag= -1  height= 629.0  oele= 619.0
+n= 16  SID=[b'K' b'U' b'4' b'2' b' ']  diff= -0.0005264282  ufo= 4.4638524  gsi= 4.463326 lat= 40.61  lon= 248.01  otype= 287  oflag= -1  height= 1413.0  oele= 1403.0
+n= 23  SID=[b'K' b'U' b'4' b'2' b' ']  diff= -0.0005264282  ufo= 4.4638524  gsi= 4.463326 lat= 40.61  lon= 248.01  otype= 287  oflag= -1  height= 1413.0  oele= 1403.0
+n= 26  SID=[b'7' b'2' b'5' b'7' b'2']  diff= -0.0008125305  ufo= 3.4270606  gsi= 3.426248 lat= 40.77806  lon= 248.03056  otype= 281  oflag= -1  height= 1299.0  oele= 1289.0
+n= 27  SID=[b'K' b'S' b'L' b'C' b' ']  diff= -0.00080919266  ufo= 3.4366157  gsi= 3.4358065 lat= 40.78  lon= 248.03  otype= 287  oflag= -1  height= 1298.0  oele= 1288.0
+n= 31  SID=[b'K' b'S' b'V' b'C' b' ']  diff= 0.00067305565  ufo= -2.2499192  gsi= -2.2492461 lat= 32.63  lon= 251.85  otype= 287  oflag= -1  height= 1669.0  oele= 1659.0
+n= 32  SID=[b'K' b'H' b'M' b'N' b' ']  diff= 0.0023245811  ufo= -4.4275417  gsi= -4.425217 lat= 32.85  lon= 253.9  otype= 287  oflag= -1  height= 1258.0  oele= 1248.0
+n= 33  SID=[b'7' b'2' b'2' b'7' b'1']  diff= 0.0005044937  ufo= -3.2193537  gsi= -3.2188492 lat= 33.23528  lon= 252.73111  otype= 281  oflag= -1  height= 1491.0  oele= 1481.0
+n= 34  SID=[b'7' b'2' b'2' b'7' b'0']  diff= 0.0010662079  ufo= -2.472374  gsi= -2.4713078 lat= 31.80667  lon= 253.62279  otype= 281  oflag= -1  height= 1204.0  oele= 1194.0
+n= 35  SID=[b'K' b'E' b'L' b'P' b' ']  diff= 0.0009803772  ufo= -2.527965  gsi= -2.5269847 lat= 31.8  lon= 253.6  otype= 287  oflag= -1  height= 1204.0  oele= 1194.0
+n= 36  SID=[b'K' b'B' b'I' b'F' b' ']  diff= 0.00091314316  ufo= -2.2700415  gsi= -2.2691283 lat= 31.85  lon= 253.62  otype= 287  oflag= -1  height= 1214.0  oele= 1204.0
+n= 38  SID=[b'K' b'S' b'V' b'C' b' ']  diff= 0.00067305565  ufo= -2.2499192  gsi= -2.2492461 lat= 32.63  lon= 251.85  otype= 287  oflag= -1  height= 1669.0  oele= 1659.0
+n= 39  SID=[b'K' b'S' b'R' b'R' b' ']  diff= 0.0010004044  ufo= -3.7661066  gsi= -3.7651062 lat= 33.47  lon= 254.47  otype= 287  oflag= -1  height= 2086.0  oele= 2076.0
+n= 41  SID=[b'K' b'S' b'R' b'R' b' ']  diff= 0.0010004044  ufo= -3.7661066  gsi= -3.7651062 lat= 33.47  lon= 254.47  otype= 287  oflag= -1  height= 2086.0  oele= 2076.0
+n= 42  SID=[b'K' b'O' b'N' b'M' b' ']  diff= 0.00075244904  ufo= -7.6483684  gsi= -7.647616 lat= 34.02  lon= 253.1  otype= 287  oflag= -1  height= 1488.0  oele= 1478.0
+n= 45  SID=[b'K' b'A' b'E' b'G' b' ']  diff= 0.0015809536  ufo= -3.2268124  gsi= -3.2252314 lat= 35.14  lon= 253.2  otype= 287  oflag= -1  height= 1789.0  oele= 1779.0
+n= 46  SID=[b'K' b'G' b'N' b'T' b' ']  diff= 0.0005097389  ufo= -4.166994  gsi= -4.1664844 lat= 35.17  lon= 252.1  otype= 287  oflag= -1  height= 1997.0  oele= 1987.0
+n= 49  SID=[b'K' b'0' b'E' b'0' b' ']  diff= 0.000992775  ufo= -2.755644  gsi= -2.7546513 lat= 34.97  lon= 254.0  otype= 287  oflag= -1  height= 1899.0  oele= 1889.0
+n= 50  SID=[b'K' b'C' b'Q' b'C' b' ']  diff= 0.0014438629  ufo= -4.085019  gsi= -4.0835752 lat= 35.0  lon= 254.33  otype= 287  oflag= -1  height= 2170.0  oele= 2160.0
+n= 52  SID=[b'K' b'A' b'E' b'G' b' ']  diff= 0.0015809536  ufo= -3.2268124  gsi= -3.2252314 lat= 35.14  lon= 253.2  otype= 287  oflag= -1  height= 1789.0  oele= 1779.0
+n= 53  SID=[b'K' b'G' b'N' b'T' b' ']  diff= 0.0005097389  ufo= -4.166994  gsi= -4.1664844 lat= 35.17  lon= 252.1  otype= 287  oflag= -1  height= 1997.0  oele= 1987.0
+n= 55  SID=[b'K' b'L' b'A' b'M' b' ']  diff= 0.00053048134  ufo= -1.9524033  gsi= -1.9518728 lat= 35.88  lon= 253.72  otype= 287  oflag= -1  height= 2189.0  oele= 2179.0
+n= 56  SID=[b'K' b'O' b'N' b'M' b' ']  diff= 0.00075244904  ufo= -7.6483684  gsi= -7.647616 lat= 34.02  lon= 253.1  otype= 287  oflag= -1  height= 1488.0  oele= 1478.0
+n= 58  SID=[b'K' b'0' b'E' b'0' b' ']  diff= 0.000992775  ufo= -2.755644  gsi= -2.7546513 lat= 34.97  lon= 254.0  otype= 287  oflag= -1  height= 1899.0  oele= 1889.0
+n= 59  SID=[b'K' b'S' b'A' b'F' b' ']  diff= 0.0007195473  ufo= -4.376933  gsi= -4.3762136 lat= 35.61  lon= 253.92  otype= 287  oflag= -1  height= 1944.0  oele= 1934.0
+n= 60  SID=[b'K' b'L' b'A' b'M' b' ']  diff= 0.00053048134  ufo= -1.9524033  gsi= -1.9518728 lat= 35.88  lon= 253.72  otype= 287  oflag= -1  height= 2189.0  oele= 2179.0
+n= 142  SID=[b'K' b'C' b'V' b'S' b' ']  diff= 0.0018453598  ufo= -8.280149  gsi= -8.278304 lat= 34.38  lon= 256.68  otype= 287  oflag= -1  height= 1319.0  oele= 1309.0
+n= 143  SID=[b'K' b'C' b'V' b'N' b' ']  diff= 0.0021438599  ufo= -9.321541  gsi= -9.319397 lat= 34.43  lon= 256.92  otype= 287  oflag= -1  height= 1294.0  oele= 1284.0
+n= 144  SID=[b'K' b'H' b'R' b'X' b' ']  diff= 0.0017738342  ufo= -9.473762  gsi= -9.471988 lat= 34.86  lon= 257.67  otype= 287  oflag= -1  height= 1164.0  oele= 1154.0
+n= 145  SID=[b'K' b'A' b'M' b'A' b' ']  diff= 0.0014972687  ufo= -11.187807  gsi= -11.18631 lat= 35.22  lon= 258.3  otype= 287  oflag= -1  height= 1109.0  oele= 1099.0
+n= 146  SID=[b'K' b'D' b'U' b'X' b' ']  diff= 0.0018234253  ufo= -10.870494  gsi= -10.86867 lat= 35.86  lon= 257.99  otype= 287  oflag= -1  height= 1139.0  oele= 1129.0
+n= 148  SID=[b'7' b'2' b'3' b'6' b'0']  diff= 0.0015554428  ufo= -13.471901  gsi= -13.4703455 lat= 36.445  lon= 256.85  otype= 281  oflag= -1  height= 1526.0  oele= 1516.0
+n= 149  SID=[b'7' b'2' b'3' b'6' b'3']  diff= 0.001493454  ufo= -11.169271  gsi= -11.167778 lat= 35.21917  lon= 258.29416  otype= 281  oflag= -1  height= 1105.0  oele= 1095.0
+n= 150  SID=[b'K' b'P' b'V' b'W' b' ']  diff= 0.0023670197  ufo= -8.183436  gsi= -8.181069 lat= 34.17  lon= 258.28  otype= 287  oflag= -1  height= 1038.0  oele= 1028.0
+n= 151  SID=[b'K' b'H' b'R' b'X' b' ']  diff= 0.0017738342  ufo= -9.473762  gsi= -9.471988 lat= 34.86  lon= 257.67  otype= 287  oflag= -1  height= 1164.0  oele= 1154.0
+n= 152  SID=[b'K' b'L' b'V' b'S' b' ']  diff= 0.00080537796  ufo= -4.1874533  gsi= -4.186648 lat= 35.65  lon= 254.85  otype= 287  oflag= -1  height= 2105.0  oele= 2095.0
+n= 153  SID=[b'K' b'D' b'U' b'X' b' ']  diff= 0.0018234253  ufo= -10.870494  gsi= -10.86867 lat= 35.86  lon= 257.99  otype= 287  oflag= -1  height= 1139.0  oele= 1129.0
+n= 155  SID=[b'K' b'R' b'T' b'N' b' ']  diff= 0.0016028881  ufo= -2.92947  gsi= -2.9278672 lat= 36.74  lon= 255.5  otype= 287  oflag= -1  height= 1946.0  oele= 1936.0
+n= 156  SID=[b'K' b'P' b'V' b'W' b' ']  diff= 0.0023670197  ufo= -8.183436  gsi= -8.181069 lat= 34.17  lon= 258.28  otype= 287  oflag= -1  height= 1038.0  oele= 1028.0
+n= 157  SID=[b'K' b'4' b'M' b'R' b' ']  diff= 0.0013256073  ufo= -4.5465345  gsi= -4.545209 lat= 34.29  lon= 256.2  otype= 287  oflag= -1  height= 1336.0  oele= 1326.0
+n= 158  SID=[b'K' b'T' b'C' b'C' b' ']  diff= 0.0012426376  ufo= -4.123427  gsi= -4.1221843 lat= 35.18  lon= 256.4  otype= 287  oflag= -1  height= 1249.0  oele= 1239.0
+n= 159  SID=[b'K' b'D' b'H' b'T' b' ']  diff= 0.0015707016  ufo= -8.908289  gsi= -8.906718 lat= 36.02  lon= 257.45  otype= 287  oflag= -1  height= 1226.0  oele= 1216.0
+n= 161  SID=[b'K' b'C' b'A' b'O' b' ']  diff= 0.0014715195  ufo= -13.747453  gsi= -13.745981 lat= 36.45  lon= 256.85  otype= 287  oflag= -1  height= 1525.0  oele= 1515.0
+n= 185  SID=[b'K' b'H' b'D' b'E' b' ']  diff= 0.0013184547  ufo= -5.5726495  gsi= -5.571331 lat= 40.45  lon= 260.67  otype= 287  oflag= -1  height= 714.0  oele= 704.0
+n= 186  SID=[b'K' b'I' b'M' b'L' b' ']  diff= 0.0010948181  ufo= -5.180893  gsi= -5.179798 lat= 40.52  lon= 258.38  otype= 287  oflag= -1  height= 1007.0  oele= 997.0
+n= 189  SID=[b'K' b'G' b'R' b'I' b' ']  diff= 0.00082206726  ufo= -4.7619905  gsi= -4.7611685 lat= 40.97  lon= 261.68  otype= 287  oflag= -1  height= 576.0  oele= 566.0
+n= 190  SID=[b'K' b'O' b'G' b'A' b' ']  diff= 0.0007805824  ufo= -4.157574  gsi= -4.1567936 lat= 41.12  lon= 258.23  otype= 287  oflag= -1  height= 1009.0  oele= 999.0
+n= 191  SID=[b'K' b'B' b'B' b'W' b' ']  diff= 0.0007624626  ufo= -5.9221115  gsi= -5.921349 lat= 41.43  lon= 260.35  otype= 287  oflag= -1  height= 786.0  oele= 776.0
+n= 194  SID=[b'K' b'O' b'N' b'L' b' ']  diff= 0.000824213  ufo= -3.5989642  gsi= -3.59814 lat= 42.47  lon= 261.32  otype= 287  oflag= -1  height= 629.0  oele= 619.0
+n= 198  SID=[b'K' b'H' b'J' b'H' b' ']  diff= 0.00070500374  ufo= -3.3885527  gsi= -3.3878477 lat= 40.15  lon= 262.41  otype= 287  oflag= -1  height= 457.0  oele= 447.0
+n= 199  SID=[b'K' b'H' b'S' b'I' b' ']  diff= 0.0010647774  ufo= -5.1814528  gsi= -5.180388 lat= 40.6  lon= 261.57  otype= 287  oflag= -1  height= 606.0  oele= 596.0
+n= 200  SID=[b'K' b'E' b'A' b'R' b' ']  diff= 0.0014910698  ufo= -5.137949  gsi= -5.136458 lat= 40.72  lon= 261.0  otype= 287  oflag= -1  height= 659.0  oele= 649.0
+n= 201  SID=[b'K' b'L' b'X' b'N' b' ']  diff= 0.0011591911  ufo= -4.5246663  gsi= -4.523507 lat= 40.79  lon= 260.22  otype= 287  oflag= -1  height= 746.0  oele= 736.0
+n= 203  SID=[b'K' b'L' b'B' b'F' b' ']  diff= 0.00073480606  ufo= -4.3400183  gsi= -4.3392835 lat= 41.13  lon= 259.32  otype= 287  oflag= -1  height= 859.0  oele= 849.0
+n= 204  SID=[b'K' b'O' b'D' b'X' b' ']  diff= 0.0009608269  ufo= -5.700961  gsi= -5.7000003 lat= 41.62  lon= 261.05  otype= 287  oflag= -1  height= 641.0  oele= 631.0
+n= 205  SID=[b'K' b'T' b'I' b'F' b' ']  diff= 0.00071048737  ufo= -6.844987  gsi= -6.8442764 lat= 41.96  lon= 259.43  otype= 287  oflag= -1  height= 902.0  oele= 892.0
+n= 206  SID=[b'K' b'O' b'N' b'L' b' ']  diff= 0.000824213  ufo= -3.5989642  gsi= -3.59814 lat= 42.47  lon= 261.32  otype= 287  oflag= -1  height= 629.0  oele= 619.0
+n= 207  SID=[b'K' b'A' b'N' b'W' b' ']  diff= 0.0006904602  ufo= -6.2636185  gsi= -6.262928 lat= 42.58  lon= 260.0  otype= 287  oflag= -1  height= 799.0  oele= 789.0
+n= 208  SID=[b'K' b'V' b'T' b'N' b' ']  diff= 0.00050640106  ufo= -5.4281454  gsi= -5.427639 lat= 42.87  lon= 259.45  otype= 287  oflag= -1  height= 802.0  oele= 792.0
+n= 209  SID=[b'K' b'H' b'J' b'H' b' ']  diff= 0.00070500374  ufo= -3.3885527  gsi= -3.3878477 lat= 40.15  lon= 262.41  otype= 287  oflag= -1  height= 457.0  oele= 447.0
+n= 210  SID=[b'K' b'M' b'C' b'K' b' ']  diff= 0.00096488  ufo= -3.9753416  gsi= -3.9743767 lat= 40.2  lon= 259.42  otype= 287  oflag= -1  height= 796.0  oele= 786.0
+n= 211  SID=[b'K' b'H' b'D' b'E' b' ']  diff= 0.0013184547  ufo= -5.5726495  gsi= -5.571331 lat= 40.45  lon= 260.67  otype= 287  oflag= -1  height= 714.0  oele= 704.0
+n= 212  SID=[b'K' b'L' b'X' b'N' b' ']  diff= 0.0011591911  ufo= -4.5246663  gsi= -4.523507 lat= 40.79  lon= 260.22  otype= 287  oflag= -1  height= 746.0  oele= 736.0
+n= 214  SID=[b'K' b'G' b'R' b'I' b' ']  diff= 0.00082206726  ufo= -4.7619905  gsi= -4.7611685 lat= 40.97  lon= 261.68  otype= 287  oflag= -1  height= 576.0  oele= 566.0
+n= 215  SID=[b'K' b'G' b'R' b'I' b' ']  diff= 0.00082206726  ufo= -4.7619905  gsi= -4.7611685 lat= 40.97  lon= 261.68  otype= 287  oflag= -1  height= 576.0  oele= 566.0
+n= 216  SID=[b'K' b'O' b'G' b'A' b' ']  diff= 0.0007805824  ufo= -4.157574  gsi= -4.1567936 lat= 41.12  lon= 258.23  otype= 287  oflag= -1  height= 1009.0  oele= 999.0
+n= 218  SID=[b'K' b'T' b'I' b'F' b' ']  diff= 0.00071048737  ufo= -6.844987  gsi= -6.8442764 lat= 41.96  lon= 259.43  otype= 287  oflag= -1  height= 902.0  oele= 892.0
+n= 220  SID=[b'K' b'A' b'N' b'W' b' ']  diff= 0.0006904602  ufo= -6.2636185  gsi= -6.262928 lat= 42.58  lon= 260.0  otype= 287  oflag= -1  height= 799.0  oele= 789.0
+n= 221  SID=[b'7' b'2' b'5' b'5' b'2']  diff= 0.00080919266  ufo= -4.6991143  gsi= -4.698305 lat= 40.9675  lon= 261.69168  otype= 281  oflag= -1  height= 576.0  oele= 566.0
+n= 222  SID=[b'7' b'2' b'5' b'6' b'2']  diff= 0.0007610321  ufo= -4.1944847  gsi= -4.1937237 lat= 41.13278  lon= 259.3  otype= 281  oflag= -1  height= 856.0  oele= 846.0
+n= 245  SID=[b'K' b'E' b'V' b'U' b' ']  diff= -0.0007033348  ufo= 2.7674747  gsi= 2.7667713 lat= 40.35  lon= 265.09  otype= 287  oflag= -1  height= 359.0  oele= 349.0
+n= 247  SID=[b'K' b'R' b'D' b'K' b' ']  diff= -0.0010259151  ufo= 1.0267653  gsi= 1.0257394 lat= 41.02  lon= 264.73  otype= 287  oflag= -1  height= 328.0  oele= 318.0
+n= 248  SID=[b'K' b'C' b'S' b'Q' b' ']  diff= -0.00096845627  ufo= 3.4054008  gsi= 3.4044323 lat= 41.02  lon= 265.63  otype= 287  oflag= -1  height= 404.0  oele= 394.0
+n= 249  SID=[b'K' b'C' b'N' b'C' b' ']  diff= -0.0006271601  ufo= 1.817413  gsi= 1.8167858 lat= 41.03  lon= 266.63  otype= 287  oflag= -1  height= 330.0  oele= 320.0
+n= 252  SID=[b'K' b'B' b'T' b'A' b' ']  diff= -0.000569582  ufo= 1.2585399  gsi= 1.2579703 lat= 41.42  lon= 263.88  otype= 287  oflag= -1  height= 414.0  oele= 404.0
+n= 257  SID=[b'K' b'C' b'I' b'N' b' ']  diff= -0.0005028248  ufo= 1.6400214  gsi= 1.6395186 lat= 42.05  lon= 265.22  otype= 287  oflag= -1  height= 385.0  oele= 375.0
+n= 266  SID=[b'K' b'E' b'V' b'U' b' ']  diff= -0.0007033348  ufo= 2.7674747  gsi= 2.7667713 lat= 40.35  lon= 265.09  otype= 287  oflag= -1  height= 359.0  oele= 349.0
+n= 268  SID=[b'K' b'I' b'C' b'L' b' ']  diff= -0.00093340874  ufo= 2.4650037  gsi= 2.4640703 lat= 40.72  lon= 264.97  otype= 287  oflag= -1  height= 313.0  oele= 303.0
+n= 269  SID=[b'K' b'S' b'D' b'A' b' ']  diff= -0.0011204109  ufo= 0.10808503  gsi= 0.10696462 lat= 40.75  lon= 264.58  otype= 287  oflag= -1  height= 306.0  oele= 296.0
+n= 270  SID=[b'K' b'P' b'M' b'V' b' ']  diff= -0.00061416626  ufo= 2.4393742  gsi= 2.43876 lat= 40.95  lon= 264.09  otype= 287  oflag= -1  height= 377.0  oele= 367.0
+n= 271  SID=[b'K' b'R' b'D' b'K' b' ']  diff= -0.0010259151  ufo= 1.0267653  gsi= 1.0257394 lat= 41.02  lon= 264.73  otype= 287  oflag= -1  height= 328.0  oele= 318.0
+n= 272  SID=[b'K' b'I' b'7' b'5' b' ']  diff= -0.0007427931  ufo= 1.9004046  gsi= 1.8996618 lat= 41.05  lon= 266.32  otype= 287  oflag= -1  height= 349.0  oele= 339.0
+n= 277  SID=[b'K' b'O' b'X' b'V' b' ']  diff= -0.0005302429  ufo= 1.1255596  gsi= 1.1250293 lat= 41.3  lon= 266.88  otype= 287  oflag= -1  height= 293.0  oele= 283.0
+n= 278  SID=[b'K' b'A' b'I' b'O' b' ']  diff= -0.0010598302  ufo= 0.771998  gsi= 0.77093816 lat= 41.4  lon= 264.95  otype= 287  oflag= -1  height= 370.0  oele= 360.0
+n= 281  SID=[b'K' b'A' b'D' b'U' b' ']  diff= -0.0005532503  ufo= 1.5853753  gsi= 1.584822 lat= 41.7  lon= 265.08  otype= 287  oflag= -1  height= 402.0  oele= 392.0
+n= 282  SID=[b'K' b'T' b'Q' b'E' b' ']  diff= -0.0006340146  ufo= -0.3766607  gsi= -0.37729472 lat= 41.77  lon= 263.83  otype= 287  oflag= -1  height= 322.0  oele= 312.0
+n= 284  SID=[b'K' b'D' b'N' b'S' b' ']  diff= -0.0005082488  ufo= 0.67893875  gsi= 0.6784305 lat= 41.99  lon= 264.62  otype= 287  oflag= -1  height= 392.0  oele= 382.0
+n= 289  SID=[b'K' b'F' b'N' b'B' b' ']  diff= -0.0005375445  ufo= -0.42278478  gsi= -0.42332232 lat= 40.08  lon= 264.4  otype= 287  oflag= -1  height= 310.0  oele= 300.0
+n= 292  SID=[b'K' b'L' b'W' b'D' b' ']  diff= -0.0009343624  ufo= 3.400987  gsi= 3.4000525 lat= 40.63  lon= 266.1  otype= 287  oflag= -1  height= 355.0  oele= 345.0
+n= 293  SID=[b'K' b'I' b'C' b'L' b' ']  diff= -0.00093340874  ufo= 2.4650037  gsi= 2.4640703 lat= 40.72  lon= 264.97  otype= 287  oflag= -1  height= 313.0  oele= 303.0
+n= 294  SID=[b'K' b'S' b'D' b'A' b' ']  diff= -0.0011204109  ufo= 0.10808503  gsi= 0.10696462 lat= 40.75  lon= 264.58  otype= 287  oflag= -1  height= 306.0  oele= 296.0
+n= 295  SID=[b'K' b'P' b'M' b'V' b' ']  diff= -0.00061416626  ufo= 2.4393742  gsi= 2.43876 lat= 40.95  lon= 264.09  otype= 287  oflag= -1  height= 377.0  oele= 367.0
+n= 296  SID=[b'K' b'C' b'S' b'Q' b' ']  diff= -0.00096845627  ufo= 3.4054008  gsi= 3.4044323 lat= 41.02  lon= 265.63  otype= 287  oflag= -1  height= 404.0  oele= 394.0
+n= 297  SID=[b'K' b'C' b'N' b'C' b' ']  diff= -0.0006271601  ufo= 1.817413  gsi= 1.8167858 lat= 41.03  lon= 266.63  otype= 287  oflag= -1  height= 330.0  oele= 320.0
+n= 298  SID=[b'K' b'I' b'7' b'5' b' ']  diff= -0.0007427931  ufo= 1.9004046  gsi= 1.8996618 lat= 41.05  lon= 266.32  otype= 287  oflag= -1  height= 349.0  oele= 339.0
+n= 301  SID=[b'K' b'O' b'X' b'V' b' ']  diff= -0.0005302429  ufo= 1.1255596  gsi= 1.1250293 lat= 41.3  lon= 266.88  otype= 287  oflag= -1  height= 293.0  oele= 283.0
+n= 302  SID=[b'K' b'A' b'I' b'O' b' ']  diff= -0.0010598302  ufo= 0.771998  gsi= 0.77093816 lat= 41.4  lon= 264.95  otype= 287  oflag= -1  height= 370.0  oele= 360.0
+n= 303  SID=[b'K' b'B' b'T' b'A' b' ']  diff= -0.000569582  ufo= 1.2585399  gsi= 1.2579703 lat= 41.42  lon= 263.88  otype= 287  oflag= -1  height= 414.0  oele= 404.0
+n= 309  SID=[b'K' b'A' b'D' b'U' b' ']  diff= -0.0005532503  ufo= 1.5853753  gsi= 1.584822 lat= 41.7  lon= 265.08  otype= 287  oflag= -1  height= 402.0  oele= 392.0
+n= 310  SID=[b'K' b'D' b'N' b'S' b' ']  diff= -0.0005082488  ufo= 0.67893875  gsi= 0.6784305 lat= 41.99  lon= 264.62  otype= 287  oflag= -1  height= 392.0  oele= 382.0
+n= 311  SID=[b'K' b'C' b'I' b'N' b' ']  diff= -0.0005028248  ufo= 1.6400214  gsi= 1.6395186 lat= 42.05  lon= 265.22  otype= 287  oflag= -1  height= 385.0  oele= 375.0
+n= 341  SID=[b'K' b'F' b'D' b'W' b' ']  diff= 0.0018088818  ufo= -2.458712  gsi= -2.4569032 lat= 34.32  lon= 278.88  otype= 287  oflag= -1  height= 186.0  oele= 176.0
+n= 343  SID=[b'K' b'D' b'N' b'N' b' ']  diff= 0.0017433167  ufo= -4.071208  gsi= -4.0694647 lat= 34.72  lon= 275.13  otype= 287  oflag= -1  height= 226.0  oele= 216.0
+n= 344  SID=[b'K' b'D' b'C' b'M' b' ']  diff= 0.0012447834  ufo= -2.2567363  gsi= -2.2554915 lat= 34.79  lon= 278.81  otype= 287  oflag= -1  height= 210.0  oele= 200.0
+n= 347  SID=[b'K' b'G' b'M' b'U' b' ']  diff= 0.0015859604  ufo= -1.6141593  gsi= -1.6125734 lat= 34.85  lon= 277.65  otype= 287  oflag= -1  height= 329.0  oele= 319.0
+n= 348  SID=[b'K' b'G' b'S' b'P' b' ']  diff= 0.0010709763  ufo= -0.27957165  gsi= -0.27850068 lat= 34.9  lon= 277.78  otype= 287  oflag= -1  height= 306.0  oele= 296.0
+n= 349  SID=[b'K' b'S' b'P' b'A' b' ']  diff= 0.0005371496  ufo= -0.071981296  gsi= -0.07144415 lat= 34.9  lon= 278.05  otype= 287  oflag= -1  height= 256.0  oele= 246.0
+n= 350  SID=[b'K' b'R' b'Z' b'R' b' ']  diff= 0.0008251667  ufo= -2.5300164  gsi= -2.5291913 lat= 35.22  lon= 275.2  otype= 287  oflag= -1  height= 273.0  oele= 263.0
+n= 351  SID=[b'K' b'C' b'L' b'T' b' ']  diff= 0.0013189316  ufo= -2.1529129  gsi= -2.151594 lat= 35.22  lon= 279.05  otype= 287  oflag= -1  height= 238.0  oele= 228.0
+n= 353  SID=[b'K' b'M' b'M' b'I' b' ']  diff= 0.0010050535  ufo= -1.7960376  gsi= -1.7950325 lat= 35.4  lon= 275.43  otype= 287  oflag= -1  height= 276.0  oele= 266.0
+n= 354  SID=[b'K' b'F' b'Q' b'D' b' ']  diff= 0.0017516017  ufo= -0.28687814  gsi= -0.28512654 lat= 35.43  lon= 278.06  otype= 287  oflag= -1  height= 339.0  oele= 329.0
+n= 355  SID=[b'K' b'H' b'K' b'Y' b' ']  diff= 0.001077652  ufo= -3.3742585  gsi= -3.3731809 lat= 35.72  lon= 278.62  otype= 287  oflag= -1  height= 372.0  oele= 362.0
+n= 356  SID=[b'K' b'S' b'V' b'H' b' ']  diff= 0.0013427734  ufo= -2.5735877  gsi= -2.572245 lat= 35.77  lon= 279.05  otype= 287  oflag= -1  height= 304.0  oele= 294.0
+n= 360  SID=[b'K' b'M' b'W' b'K' b' ']  diff= 0.00055351853  ufo= -0.4404142  gsi= -0.43986067 lat= 36.46  lon= 279.45  otype= 287  oflag= -1  height= 390.0  oele= 380.0
+n= 362  SID=[b'K' b'H' b'L' b'X' b' ']  diff= 0.0005078316  ufo= -4.5030546  gsi= -4.502547 lat= 36.77  lon= 279.19  otype= 287  oflag= -1  height= 844.0  oele= 834.0
+n= 367  SID=[b'7' b'2' b'3' b'2' b'6']  diff= 0.0010550022  ufo= -1.1258935  gsi= -1.1248385 lat= 35.81083  lon= 276.0061  otype= 281  oflag= -1  height= 309.0  oele= 299.0
+n= 368  SID=[b'K' b'G' b'R' b'D' b' ']  diff= 0.0014162064  ufo= -1.9282933  gsi= -1.9268771 lat= 34.25  lon= 277.84  otype= 287  oflag= -1  height= 202.0  oele= 192.0
+n= 370  SID=[b'K' b'L' b'U' b'X' b' ']  diff= 0.0011422634  ufo= -2.1173453  gsi= -2.116203 lat= 34.5  lon= 278.05  otype= 287  oflag= -1  height= 222.0  oele= 212.0
+n= 373  SID=[b'K' b'S' b'P' b'A' b' ']  diff= 0.0005371496  ufo= -0.071981296  gsi= -0.07144415 lat= 34.9  lon= 278.05  otype= 287  oflag= -1  height= 256.0  oele= 246.0
+n= 374  SID=[b'K' b'U' b'Z' b'A' b' ']  diff= 0.0011408329  ufo= -1.9364896  gsi= -1.9353487 lat= 34.99  lon= 278.94  otype= 287  oflag= -1  height= 213.0  oele= 203.0
+n= 378  SID=[b'K' b'I' b'P' b'J' b' ']  diff= 0.0010126531  ufo= -0.49962807  gsi= -0.4986154 lat= 35.47  lon= 278.84  otype= 287  oflag= -1  height= 277.0  oele= 267.0
+n= 379  SID=[b'K' b'S' b'V' b'H' b' ']  diff= 0.0013427734  ufo= -2.5735877  gsi= -2.572245 lat= 35.77  lon= 279.05  otype= 287  oflag= -1  height= 304.0  oele= 294.0
+n= 380  SID=[b'K' b'T' b'Y' b'S' b' ']  diff= 0.0009793043  ufo= -1.2331709  gsi= -1.2321916 lat= 35.82  lon= 276.02  otype= 287  oflag= -1  height= 309.0  oele= 299.0
+n= 381  SID=[b'K' b'M' b'R' b'N' b' ']  diff= 0.0013328791  ufo= -1.5727202  gsi= -1.5713873 lat= 35.82  lon= 278.39  otype= 287  oflag= -1  height= 397.0  oele= 387.0
+n= 383  SID=[b'K' b'U' b'K' b'F' b' ']  diff= 0.0014505088  ufo= -0.28558427  gsi= -0.28413376 lat= 36.22  lon= 278.91  otype= 287  oflag= -1  height= 406.0  oele= 396.0
+n= 394  SID=[b'K' b'F' b'D' b'W' b' ']  diff= 0.0018088818  ufo= -2.458712  gsi= -2.4569032 lat= 34.32  lon= 278.88  otype= 287  oflag= -1  height= 186.0  oele= 176.0
+n= 395  SID=[b'K' b'L' b'U' b'X' b' ']  diff= 0.0011422634  ufo= -2.1173453  gsi= -2.116203 lat= 34.5  lon= 278.05  otype= 287  oflag= -1  height= 222.0  oele= 212.0
+n= 397  SID=[b'K' b'D' b'N' b'N' b' ']  diff= 0.0017433167  ufo= -4.071208  gsi= -4.0694647 lat= 34.72  lon= 275.13  otype= 287  oflag= -1  height= 226.0  oele= 216.0
+n= 398  SID=[b'K' b'G' b'Y' b'H' b' ']  diff= 0.0010406971  ufo= -1.595793  gsi= -1.5947523 lat= 34.76  lon= 277.62  otype= 287  oflag= -1  height= 301.0  oele= 291.0
+n= 399  SID=[b'K' b'D' b'C' b'M' b' ']  diff= 0.0012447834  ufo= -2.2567363  gsi= -2.2554915 lat= 34.79  lon= 278.81  otype= 287  oflag= -1  height= 210.0  oele= 200.0
+n= 402  SID=[b'K' b'A' b'K' b'H' b' ']  diff= 0.0012431145  ufo= -3.3215654  gsi= -3.3203223 lat= 35.2  lon= 278.85  otype= 287  oflag= -1  height= 254.0  oele= 244.0
+n= 403  SID=[b'K' b'R' b'Z' b'R' b' ']  diff= 0.0008251667  ufo= -2.5300164  gsi= -2.5291913 lat= 35.22  lon= 275.2  otype= 287  oflag= -1  height= 273.0  oele= 263.0
+n= 405  SID=[b'K' b'M' b'M' b'I' b' ']  diff= 0.0010050535  ufo= -1.7960376  gsi= -1.7950325 lat= 35.4  lon= 275.43  otype= 287  oflag= -1  height= 276.0  oele= 266.0
+n= 406  SID=[b'K' b'A' b'V' b'L' b' ']  diff= 0.0011577606  ufo= -6.625324  gsi= -6.624166 lat= 35.43  lon= 277.45  otype= 287  oflag= -1  height= 671.0  oele= 661.0
+n= 407  SID=[b'K' b'F' b'Q' b'D' b' ']  diff= 0.0017516017  ufo= -0.28687814  gsi= -0.28512654 lat= 35.43  lon= 278.06  otype= 287  oflag= -1  height= 339.0  oele= 329.0
+n= 408  SID=[b'K' b'I' b'P' b'J' b' ']  diff= 0.0010126531  ufo= -0.49962807  gsi= -0.4986154 lat= 35.47  lon= 278.84  otype= 287  oflag= -1  height= 277.0  oele= 267.0
+n= 409  SID=[b'K' b'M' b'R' b'N' b' ']  diff= 0.0013328791  ufo= -1.5727202  gsi= -1.5713873 lat= 35.82  lon= 278.39  otype= 287  oflag= -1  height= 397.0  oele= 387.0
+n= 410  SID=[b'K' b'O' b'Q' b'T' b' ']  diff= 0.0009473562  ufo= -1.0598432  gsi= -1.0588958 lat= 36.02  lon= 275.77  otype= 287  oflag= -1  height= 289.0  oele= 279.0
+n= 412  SID=[b'K' b'U' b'K' b'F' b' ']  diff= 0.0014505088  ufo= -0.28558427  gsi= -0.28413376 lat= 36.22  lon= 278.91  otype= 287  oflag= -1  height= 406.0  oele= 396.0
+n= 415  SID=[b'K' b'M' b'W' b'K' b' ']  diff= 0.00055351853  ufo= -0.4404142  gsi= -0.43986067 lat= 36.46  lon= 279.45  otype= 287  oflag= -1  height= 390.0  oele= 380.0
+n= 418  SID=[b'K' b'H' b'L' b'X' b' ']  diff= 0.0005078316  ufo= -4.5030546  gsi= -4.502547 lat= 36.77  lon= 279.19  otype= 287  oflag= -1  height= 844.0  oele= 834.0
+n= 423  SID=[b'7' b'2' b'3' b'1' b'2']  diff= 0.0010775626  ufo= -0.27761453  gsi= -0.27653697 lat= 34.89889  lon= 277.7861  otype= 281  oflag= -1  height= 306.0  oele= 296.0
+n= 424  SID=[b'7' b'2' b'3' b'1' b'5']  diff= 0.0010766983  ufo= -6.2611575  gsi= -6.260081 lat= 35.43194  lon= 277.4625  otype= 281  oflag= -1  height= 671.0  oele= 661.0
+n= 425  SID=[b'7' b'2' b'3' b'1' b'4']  diff= 0.0013957024  ufo= -2.233836  gsi= -2.2324402 lat= 35.21389  lon= 279.05695  otype= 281  oflag= -1  height= 244.0  oele= 234.0
+n= 436  SID=[b'K' b'U' b'N' b'I' b' ']  diff= 0.00059735775  ufo= -0.8089639  gsi= -0.80836654 lat= 39.21  lon= 277.77  otype= 287  oflag= -1  height= 244.0  oele= 234.0
+n= 439  SID=[b'K' b'L' b'C' b'K' b' ']  diff= 0.00052285194  ufo= -1.574422  gsi= -1.5738991 lat= 39.82  lon= 277.07  otype= 287  oflag= -1  height= 237.0  oele= 227.0
+n= 448  SID=[b'K' b'F' b'D' b'Y' b' ']  diff= 0.0009897947  ufo= -1.760995  gsi= -1.7600052 lat= 41.02  lon= 276.33  otype= 287  oflag= -1  height= 257.0  oele= 247.0
+n= 458  SID=[b'K' b'U' b'N' b'I' b' ']  diff= 0.00059735775  ufo= -0.8089639  gsi= -0.80836654 lat= 39.21  lon= 277.77  otype= 287  oflag= -1  height= 244.0  oele= 234.0
+n= 460  SID=[b'K' b'T' b'Z' b'R' b' ']  diff= 0.00051116943  ufo= -1.586523  gsi= -1.5860119 lat= 39.9  lon= 276.87  otype= 287  oflag= -1  height= 290.0  oele= 280.0
+n= 512  SID=[b'K' b'C' b'K' b'I' b' ']  diff= 0.0012340546  ufo= -0.7225551  gsi= -0.72132105 lat= 33.72  lon= 280.16  otype= 287  oflag= -1  height= 31.0  oele= 21.0
+n= 513  SID=[b'K' b'H' b'Y' b'W' b' ']  diff= 0.0011046827  ufo= -0.4220958  gsi= -0.42099112 lat= 33.83  lon= 280.88  otype= 287  oflag= -1  height= 21.0  oele= 11.0
+n= 514  SID=[b'K' b'M' b'M' b'T' b' ']  diff= 0.0016555786  ufo= -1.8994066  gsi= -1.897751 lat= 33.92  lon= 279.2  otype= 287  oflag= -1  height= 87.0  oele= 77.0
+n= 515  SID=[b'K' b'S' b'U' b'T' b' ']  diff= 0.001565218  ufo= -2.3688982  gsi= -2.367333 lat= 33.93  lon= 281.94  otype= 287  oflag= -1  height= 18.0  oele= 8.0
+n= 516  SID=[b'K' b'C' b'U' b'B' b' ']  diff= 0.000885725  ufo= -1.2588362  gsi= -1.2579504 lat= 33.97  lon= 279.02  otype= 287  oflag= -1  height= 74.0  oele= 64.0
+n= 517  SID=[b'K' b'S' b'S' b'C' b' ']  diff= 0.0014612675  ufo= -1.754218  gsi= -1.7527567 lat= 33.97  lon= 279.53  otype= 287  oflag= -1  height= 84.0  oele= 74.0
+n= 518  SID=[b'K' b'S' b'M' b'S' b' ']  diff= 0.0015354753  ufo= -0.96282524  gsi= -0.96128976 lat= 34.0  lon= 279.64  otype= 287  oflag= -1  height= 66.0  oele= 56.0
+n= 519  SID=[b'K' b'M' b'A' b'O' b' ']  diff= 0.0015314221  ufo= -0.83273906  gsi= -0.83120763 lat= 34.18  lon= 280.67  otype= 287  oflag= -1  height= 38.0  oele= 28.0
+n= 520  SID=[b'K' b'I' b'L' b'M' b' ']  diff= 0.0014920235  ufo= -1.2104717  gsi= -1.2089797 lat= 34.27  lon= 282.1  otype= 287  oflag= -1  height= 20.0  oele= 10.0
+n= 521  SID=[b'K' b'C' b'D' b'N' b' ']  diff= 0.0017955303  ufo= -1.2933928  gsi= -1.2915972 lat= 34.28  lon= 279.44  otype= 287  oflag= -1  height= 102.0  oele= 92.0
+n= 522  SID=[b'K' b'U' b'D' b'G' b' ']  diff= 0.0017496347  ufo= -1.7062175  gsi= -1.7044679 lat= 34.45  lon= 280.12  otype= 287  oflag= -1  height= 69.0  oele= 59.0
+n= 523  SID=[b'K' b'E' b'Y' b'F' b' ']  diff= 0.00086227804  ufo= -0.12246868  gsi= -0.1216064 lat= 34.6  lon= 281.42  otype= 287  oflag= -1  height= 50.0  oele= 40.0
+n= 524  SID=[b'K' b'C' b'Q' b'W' b' ']  diff= 0.0016846657  ufo= -1.7964365  gsi= -1.7947519 lat= 34.72  lon= 280.06  otype= 287  oflag= -1  height= 83.0  oele= 73.0
+n= 525  SID=[b'K' b'C' b'T' b'Z' b' ']  diff= 0.0005658567  ufo= -0.4009445  gsi= -0.40037864 lat= 34.97  lon= 281.64  otype= 287  oflag= -1  height= 55.0  oele= 45.0
+n= 526  SID=[b'K' b'A' b'F' b'P' b' ']  diff= 0.0015608431  ufo= 0.0016710707  gsi= 0.0032319138 lat= 35.02  lon= 279.92  otype= 287  oflag= -1  height= 101.0  oele= 91.0
+n= 527  SID=[b'K' b'P' b'O' b'B' b' ']  diff= 0.0016660094  ufo= -0.930074  gsi= -0.92840797 lat= 35.15  lon= 280.99  otype= 287  oflag= -1  height= 76.0  oele= 66.0
+n= 528  SID=[b'K' b'S' b'O' b'P' b' ']  diff= 0.0013597012  ufo= -1.135878  gsi= -1.1345183 lat= 35.22  lon= 280.6  otype= 287  oflag= -1  height= 151.0  oele= 141.0
+n= 529  SID=[b'K' b'J' b'Q' b'F' b' ']  diff= 0.0020079613  ufo= -1.5251385  gsi= -1.5231305 lat= 35.38  lon= 279.3  otype= 287  oflag= -1  height= 220.0  oele= 210.0
+n= 530  SID=[b'K' b'H' b'R' b'J' b' ']  diff= 0.00053921994  ufo= -0.0063898447  gsi= -0.0058506248 lat= 35.38  lon= 281.27  otype= 287  oflag= -1  height= 70.0  oele= 60.0
+n= 531  SID=[b'K' b'V' b'U' b'J' b' ']  diff= 0.0011774302  ufo= -1.4509332  gsi= -1.4497558 lat= 35.42  lon= 279.85  otype= 287  oflag= -1  height= 196.0  oele= 186.0
+n= 532  SID=[b'K' b'G' b'W' b'W' b' ']  diff= 0.0010582805  ufo= -0.44413027  gsi= -0.443072 lat= 35.46  lon= 282.05  otype= 287  oflag= -1  height= 51.0  oele= 41.0
+n= 534  SID=[b'K' b'T' b'T' b'A' b' ']  diff= 0.0018787384  ufo= -0.5250838  gsi= -0.52320504 lat= 35.58  lon= 280.91  otype= 287  oflag= -1  height= 85.0  oele= 75.0
+n= 535  SID=[b'K' b'P' b'G' b'V' b' ']  diff= 0.0010836422  ufo= -0.48536408  gsi= -0.48428044 lat= 35.63  lon= 282.6  otype= 287  oflag= -1  height= 18.0  oele= 8.0
+n= 536  SID=[b'K' b'R' b'U' b'Q' b' ']  diff= 0.0022389889  ufo= -1.8756862  gsi= -1.8734472 lat= 35.65  lon= 279.48  otype= 287  oflag= -1  height= 246.0  oele= 236.0
+n= 537  SID=[b'K' b'H' b'B' b'I' b' ']  diff= 0.0007442832  ufo= -0.47389  gsi= -0.47314572 lat= 35.65  lon= 280.1  otype= 287  oflag= -1  height= 215.0  oele= 205.0
+n= 538  SID=[b'K' b'S' b'C' b'R' b' ']  diff= 0.0018013716  ufo= -1.5525846  gsi= -1.5507833 lat= 35.7  lon= 280.5  otype= 287  oflag= -1  height= 198.0  oele= 188.0
+n= 539  SID=[b'K' b'E' b'X' b'X' b' ']  diff= 0.002210021  ufo= -1.2637119  gsi= -1.2615019 lat= 35.78  lon= 279.7  otype= 287  oflag= -1  height= 233.0  oele= 223.0
+n= 540  SID=[b'K' b'R' b'W' b'I' b' ']  diff= 0.0009896755  ufo= -0.49518043  gsi= -0.49419075 lat= 35.85  lon= 282.1  otype= 287  oflag= -1  height= 58.0  oele= 48.0
+n= 541  SID=[b'K' b'E' b'T' b'C' b' ']  diff= 0.00096303225  ufo= -0.6101282  gsi= -0.6091652 lat= 35.93  lon= 282.46  otype= 287  oflag= -1  height= 26.0  oele= 16.0
+n= 542  SID=[b'K' b'L' b'H' b'Z' b' ']  diff= 0.00083339214  ufo= -0.5907746  gsi= -0.5899412 lat= 36.02  lon= 281.67  otype= 287  oflag= -1  height= 123.0  oele= 113.0
+n= 543  SID=[b'K' b'E' b'D' b'E' b' ']  diff= 0.0010570288  ufo= -1.8301193  gsi= -1.8290622 lat= 36.03  lon= 283.44  otype= 287  oflag= -1  height= 16.0  oele= 6.0
+n= 544  SID=[b'K' b'I' b'N' b'T' b' ']  diff= 0.0013113022  ufo= -1.8763798  gsi= -1.8750685 lat= 36.13  lon= 279.78  otype= 287  oflag= -1  height= 306.0  oele= 296.0
+n= 545  SID=[b'K' b'T' b'D' b'F' b' ']  diff= 0.0015627146  ufo= -1.7560037  gsi= -1.754441 lat= 36.28  lon= 281.02  otype= 287  oflag= -1  height= 196.0  oele= 186.0
+n= 546  SID=[b'K' b'I' b'X' b'A' b' ']  diff= 0.0011639595  ufo= -1.0273136  gsi= -1.0261496 lat= 36.33  lon= 282.36  otype= 287  oflag= -1  height= 54.0  oele= 44.0
+n= 547  SID=[b'K' b'H' b'N' b'Z' b' ']  diff= 0.0005521644  ufo= 0.013451112  gsi= 0.014003277 lat= 36.36  lon= 281.47  otype= 287  oflag= -1  height= 171.0  oele= 161.0
+n= 548  SID=[b'K' b'S' b'I' b'F' b' ']  diff= 0.00092995167  ufo= -0.73272836  gsi= -0.7317984 lat= 36.44  lon= 280.16  otype= 287  oflag= -1  height= 221.0  oele= 211.0
+n= 550  SID=[b'K' b'M' b'T' b'V' b' ']  diff= 0.0008460283  ufo= -0.89554656  gsi= -0.8947005 lat= 36.63  lon= 279.98  otype= 287  oflag= -1  height= 297.0  oele= 287.0
+n= 551  SID=[b'K' b'A' b'V' b'C' b' ']  diff= 0.0005983729  ufo= 0.028761605  gsi= 0.029359978 lat= 36.69  lon= 281.95  otype= 287  oflag= -1  height= 145.0  oele= 135.0
+n= 553  SID=[b'K' b'M' b'Y' b'R' b' ']  diff= 0.0008561611  ufo= -1.5275186  gsi= -1.5266625 lat= 33.68  lon= 281.07  otype= 287  oflag= -1  height= 18.0  oele= 8.0
+n= 554  SID=[b'K' b'C' b'K' b'I' b' ']  diff= 0.0012340546  ufo= -0.7225551  gsi= -0.72132105 lat= 33.72  lon= 280.16  otype= 287  oflag= -1  height= 31.0  oele= 21.0
+n= 555  SID=[b'K' b'C' b'R' b'E' b' ']  diff= 0.0009459257  ufo= -1.5091479  gsi= -1.508202 lat= 33.82  lon= 281.28  otype= 287  oflag= -1  height= 20.0  oele= 10.0
+n= 556  SID=[b'K' b'C' b'R' b'E' b' ']  diff= 0.0009459257  ufo= -1.5091479  gsi= -1.508202 lat= 33.82  lon= 281.28  otype= 287  oflag= -1  height= 20.0  oele= 10.0
+n= 557  SID=[b'K' b'H' b'Y' b'W' b' ']  diff= 0.0011046827  ufo= -0.4220958  gsi= -0.42099112 lat= 33.83  lon= 280.88  otype= 287  oflag= -1  height= 21.0  oele= 11.0
+n= 558  SID=[b'K' b'S' b'U' b'T' b' ']  diff= 0.001565218  ufo= -2.3688982  gsi= -2.367333 lat= 33.93  lon= 281.94  otype= 287  oflag= -1  height= 18.0  oele= 8.0
+n= 559  SID=[b'K' b'S' b'M' b'S' b' ']  diff= 0.0015354753  ufo= -0.96282524  gsi= -0.96128976 lat= 34.0  lon= 279.64  otype= 287  oflag= -1  height= 66.0  oele= 56.0
+n= 560  SID=[b'K' b'C' b'P' b'C' b' ']  diff= 0.0010181665  ufo= -0.5844139  gsi= -0.5833957 lat= 34.27  lon= 281.3  otype= 287  oflag= -1  height= 40.0  oele= 30.0
+n= 561  SID=[b'K' b'C' b'D' b'N' b' ']  diff= 0.0017955303  ufo= -1.2933928  gsi= -1.2915972 lat= 34.28  lon= 279.44  otype= 287  oflag= -1  height= 102.0  oele= 92.0
+n= 562  SID=[b'K' b'H' b'V' b'S' b' ']  diff= 0.0018253326  ufo= -2.339012  gsi= -2.3371866 lat= 34.4  lon= 279.88  otype= 287  oflag= -1  height= 121.0  oele= 111.0
+n= 563  SID=[b'K' b'B' b'B' b'P' b' ']  diff= 0.0018932819  ufo= -0.5517151  gsi= -0.5498218 lat= 34.61  lon= 280.27  otype= 287  oflag= -1  height= 55.0  oele= 45.0
+n= 564  SID=[b'K' b'N' b'J' b'M' b' ']  diff= 0.0009818077  ufo= -3.2278934  gsi= -3.2269115 lat= 34.68  lon= 282.97  otype= 287  oflag= -1  height= 17.0  oele= 7.0
+n= 565  SID=[b'K' b'L' b'K' b'R' b' ']  diff= 0.0017690659  ufo= -1.4602689  gsi= -1.4584998 lat= 34.72  lon= 279.16  otype= 287  oflag= -1  height= 159.0  oele= 149.0
+n= 566  SID=[b'K' b'C' b'Q' b'W' b' ']  diff= 0.0016846657  ufo= -1.7964365  gsi= -1.7947519 lat= 34.72  lon= 280.06  otype= 287  oflag= -1  height= 83.0  oele= 73.0
+n= 567  SID=[b'K' b'R' b'C' b'Z' b' ']  diff= 0.0012372434  ufo= -0.4049392  gsi= -0.40370196 lat= 34.89  lon= 280.24  otype= 287  oflag= -1  height= 119.0  oele= 109.0
+n= 568  SID=[b'K' b'D' b'P' b'L' b' ']  diff= 0.0007932484  ufo= -0.29268909  gsi= -0.29189584 lat= 35.0  lon= 282.02  otype= 287  oflag= -1  height= 52.0  oele= 42.0
+n= 569  SID=[b'K' b'H' b'F' b'F' b' ']  diff= 0.0021935701  ufo= -1.7104185  gsi= -1.7082249 lat= 35.03  lon= 280.5  otype= 287  oflag= -1  height= 125.0  oele= 115.0
+n= 570  SID=[b'K' b'F' b'B' b'G' b' ']  diff= 0.0013737679  ufo= -1.1159301  gsi= -1.1145563 lat= 35.13  lon= 281.07  otype= 287  oflag= -1  height= 84.0  oele= 74.0
+n= 571  SID=[b'K' b'H' b'R' b'J' b' ']  diff= 0.00053921994  ufo= -0.0063898447  gsi= -0.0058506248 lat= 35.38  lon= 281.27  otype= 287  oflag= -1  height= 70.0  oele= 60.0
+n= 572  SID=[b'K' b'V' b'U' b'J' b' ']  diff= 0.0011774302  ufo= -1.4509332  gsi= -1.4497558 lat= 35.42  lon= 279.85  otype= 287  oflag= -1  height= 196.0  oele= 186.0
+n= 573  SID=[b'K' b'G' b'W' b'W' b' ']  diff= 0.0010582805  ufo= -0.44413027  gsi= -0.443072 lat= 35.46  lon= 282.05  otype= 287  oflag= -1  height= 51.0  oele= 41.0
+n= 575  SID=[b'K' b'O' b'C' b'W' b' ']  diff= 0.001473248  ufo= -0.7775945  gsi= -0.77612126 lat= 35.57  lon= 282.95  otype= 287  oflag= -1  height= 22.0  oele= 12.0
+n= 576  SID=[b'K' b'R' b'U' b'Q' b' ']  diff= 0.0022389889  ufo= -1.8756862  gsi= -1.8734472 lat= 35.65  lon= 279.48  otype= 287  oflag= -1  height= 246.0  oele= 236.0
+n= 577  SID=[b'K' b'E' b'D' b'E' b' ']  diff= 0.0010570288  ufo= -1.8301193  gsi= -1.8290622 lat= 36.03  lon= 283.44  otype= 287  oflag= -1  height= 16.0  oele= 6.0
+n= 578  SID=[b'K' b'G' b'S' b'O' b' ']  diff= 0.0018260479  ufo= -2.5459337  gsi= -2.5441077 lat= 36.08  lon= 280.05  otype= 287  oflag= -1  height= 280.0  oele= 270.0
+n= 579  SID=[b'K' b'I' b'N' b'T' b' ']  diff= 0.0013113022  ufo= -1.8763798  gsi= -1.8750685 lat= 36.13  lon= 279.78  otype= 287  oflag= -1  height= 306.0  oele= 296.0
+n= 580  SID=[b'K' b'T' b'D' b'F' b' ']  diff= 0.0015627146  ufo= -1.7560037  gsi= -1.754441 lat= 36.28  lon= 281.02  otype= 287  oflag= -1  height= 196.0  oele= 186.0
+n= 581  SID=[b'K' b'A' b'S' b'J' b' ']  diff= 0.0018491745  ufo= -2.0461748  gsi= -2.0443256 lat= 36.29  lon= 282.83  otype= 287  oflag= -1  height= 31.0  oele= 21.0
+n= 582  SID=[b'K' b'I' b'X' b'A' b' ']  diff= 0.0011639595  ufo= -1.0273136  gsi= -1.0261496 lat= 36.33  lon= 282.36  otype= 287  oflag= -1  height= 54.0  oele= 44.0
+n= 583  SID=[b'K' b'H' b'N' b'Z' b' ']  diff= 0.0005521644  ufo= 0.013451112  gsi= 0.014003277 lat= 36.36  lon= 281.47  otype= 287  oflag= -1  height= 171.0  oele= 161.0
+n= 584  SID=[b'K' b'S' b'I' b'F' b' ']  diff= 0.00092995167  ufo= -0.73272836  gsi= -0.7317984 lat= 36.44  lon= 280.16  otype= 287  oflag= -1  height= 221.0  oele= 211.0
+n= 586  SID=[b'K' b'M' b'T' b'V' b' ']  diff= 0.0008460283  ufo= -0.89554656  gsi= -0.8947005 lat= 36.63  lon= 279.98  otype= 287  oflag= -1  height= 297.0  oele= 287.0
+n= 587  SID=[b'K' b'E' b'M' b'V' b' ']  diff= 0.0019972324  ufo= -1.0873944  gsi= -1.0853971 lat= 36.69  lon= 282.52  otype= 287  oflag= -1  height= 49.0  oele= 39.0
+n= 588  SID=[b'K' b'L' b'V' b'L' b' ']  diff= 0.0016822815  ufo= -0.89553773  gsi= -0.89385545 lat= 36.77  lon= 282.21  otype= 287  oflag= -1  height= 110.0  oele= 100.0
+n= 590  SID=[b'K' b'C' b'R' b'E' b' ']  diff= 0.0009459257  ufo= -1.5091479  gsi= -1.508202 lat= 33.82  lon= 281.28  otype= 287  oflag= -1  height= 20.0  oele= 10.0
+n= 591  SID=[b'K' b'F' b'L' b'O' b' ']  diff= 0.0020067692  ufo= -1.3150206  gsi= -1.3130138 lat= 34.18  lon= 280.28  otype= 287  oflag= -1  height= 55.0  oele= 45.0
+n= 592  SID=[b'K' b'M' b'A' b'O' b' ']  diff= 0.0015314221  ufo= -0.83273906  gsi= -0.83120763 lat= 34.18  lon= 280.67  otype= 287  oflag= -1  height= 38.0  oele= 28.0
+n= 593  SID=[b'K' b'C' b'P' b'C' b' ']  diff= 0.0010181665  ufo= -0.5844139  gsi= -0.5833957 lat= 34.27  lon= 281.3  otype= 287  oflag= -1  height= 40.0  oele= 30.0
+n= 594  SID=[b'K' b'H' b'V' b'S' b' ']  diff= 0.0018253326  ufo= -2.339012  gsi= -2.3371866 lat= 34.4  lon= 279.88  otype= 287  oflag= -1  height= 121.0  oele= 111.0
+n= 595  SID=[b'K' b'E' b'Y' b'F' b' ']  diff= 0.00086227804  ufo= -0.12246868  gsi= -0.1216064 lat= 34.6  lon= 281.42  otype= 287  oflag= -1  height= 50.0  oele= 40.0
+n= 596  SID=[b'K' b'B' b'B' b'P' b' ']  diff= 0.0018932819  ufo= -0.5517151  gsi= -0.5498218 lat= 34.61  lon= 280.27  otype= 287  oflag= -1  height= 55.0  oele= 45.0
+n= 597  SID=[b'K' b'N' b'C' b'A' b' ']  diff= 0.0012574196  ufo= -1.1414942  gsi= -1.1402367 lat= 34.72  lon= 282.55  otype= 287  oflag= -1  height= 18.0  oele= 8.0
+n= 598  SID=[b'K' b'M' b'E' b'B' b' ']  diff= 0.0018125772  ufo= -1.2242374  gsi= -1.2224249 lat= 34.78  lon= 280.63  otype= 287  oflag= -1  height= 77.0  oele= 67.0
+n= 599  SID=[b'K' b'O' b'A' b'J' b' ']  diff= 0.001270473  ufo= -0.8348418  gsi= -0.8335713 lat= 34.83  lon= 282.38  otype= 287  oflag= -1  height= 39.0  oele= 29.0
+n= 600  SID=[b'K' b'R' b'C' b'Z' b' ']  diff= 0.0012372434  ufo= -0.4049392  gsi= -0.40370196 lat= 34.89  lon= 280.24  otype= 287  oflag= -1  height= 119.0  oele= 109.0
+n= 601  SID=[b'K' b'N' b'K' b'T' b' ']  diff= 0.00126338  ufo= -1.4304534  gsi= -1.42919 lat= 34.9  lon= 283.12  otype= 287  oflag= -1  height= 19.0  oele= 9.0
+n= 602  SID=[b'K' b'F' b'A' b'Y' b' ']  diff= 0.0010446906  ufo= -0.5724649  gsi= -0.5714202 lat= 34.97  lon= 281.12  otype= 287  oflag= -1  height= 68.0  oele= 58.0
+n= 603  SID=[b'K' b'C' b'T' b'Z' b' ']  diff= 0.0005658567  ufo= -0.4009445  gsi= -0.40037864 lat= 34.97  lon= 281.64  otype= 287  oflag= -1  height= 55.0  oele= 45.0
+n= 604  SID=[b'K' b'D' b'P' b'L' b' ']  diff= 0.0007932484  ufo= -0.29268909  gsi= -0.29189584 lat= 35.0  lon= 282.02  otype= 287  oflag= -1  height= 52.0  oele= 42.0
+n= 605  SID=[b'K' b'E' b'Q' b'Y' b' ']  diff= 0.002408743  ufo= -2.765682  gsi= -2.7632732 lat= 35.02  lon= 279.38  otype= 287  oflag= -1  height= 217.0  oele= 207.0
+n= 606  SID=[b'K' b'A' b'F' b'P' b' ']  diff= 0.0015608431  ufo= 0.0016710707  gsi= 0.0032319138 lat= 35.02  lon= 279.92  otype= 287  oflag= -1  height= 101.0  oele= 91.0
+n= 607  SID=[b'K' b'E' b'W' b'N' b' ']  diff= 0.0011547804  ufo= -0.7687059  gsi= -0.7675511 lat= 35.07  lon= 282.95  otype= 287  oflag= -1  height= 16.0  oele= 6.0
+n= 608  SID=[b'K' b'G' b'S' b'B' b' ']  diff= 0.0006033182  ufo= -0.106524356  gsi= -0.10592104 lat= 35.33  lon= 282.03  otype= 287  oflag= -1  height= 43.0  oele= 33.0
+n= 609  SID=[b'K' b'I' b'S' b'O' b' ']  diff= 0.0007404685  ufo= -0.60081017  gsi= -0.6000697 lat= 35.33  lon= 282.38  otype= 287  oflag= -1  height= 39.0  oele= 29.0
+n= 610  SID=[b'K' b'O' b'C' b'W' b' ']  diff= 0.001473248  ufo= -0.7775945  gsi= -0.77612126 lat= 35.57  lon= 282.95  otype= 287  oflag= -1  height= 22.0  oele= 12.0
+n= 611  SID=[b'K' b'T' b'T' b'A' b' ']  diff= 0.0018787384  ufo= -0.5250838  gsi= -0.52320504 lat= 35.58  lon= 280.91  otype= 287  oflag= -1  height= 85.0  oele= 75.0
+n= 612  SID=[b'K' b'P' b'G' b'V' b' ']  diff= 0.0010836422  ufo= -0.48536408  gsi= -0.48428044 lat= 35.63  lon= 282.6  otype= 287  oflag= -1  height= 18.0  oele= 8.0
+n= 613  SID=[b'K' b'H' b'B' b'I' b' ']  diff= 0.0007442832  ufo= -0.47389  gsi= -0.47314572 lat= 35.65  lon= 280.1  otype= 287  oflag= -1  height= 215.0  oele= 205.0
+n= 614  SID=[b'K' b'S' b'C' b'R' b' ']  diff= 0.0018013716  ufo= -1.5525846  gsi= -1.5507833 lat= 35.7  lon= 280.5  otype= 287  oflag= -1  height= 198.0  oele= 188.0
+n= 615  SID=[b'K' b'E' b'X' b'X' b' ']  diff= 0.002210021  ufo= -1.2637119  gsi= -1.2615019 lat= 35.78  lon= 279.7  otype= 287  oflag= -1  height= 233.0  oele= 223.0
+n= 616  SID=[b'K' b'E' b'T' b'C' b' ']  diff= 0.00096303225  ufo= -0.6101282  gsi= -0.6091652 lat= 35.93  lon= 282.46  otype= 287  oflag= -1  height= 26.0  oele= 16.0
+n= 617  SID=[b'K' b'L' b'H' b'Z' b' ']  diff= 0.00083339214  ufo= -0.5907746  gsi= -0.5899412 lat= 36.02  lon= 281.67  otype= 287  oflag= -1  height= 123.0  oele= 113.0
+n= 618  SID=[b'K' b'B' b'U' b'Y' b' ']  diff= 0.00218606  ufo= -1.9455273  gsi= -1.9433413 lat= 36.04  lon= 280.53  otype= 287  oflag= -1  height= 198.0  oele= 188.0
+n= 619  SID=[b'K' b'A' b'S' b'J' b' ']  diff= 0.0018491745  ufo= -2.0461748  gsi= -2.0443256 lat= 36.29  lon= 282.83  otype= 287  oflag= -1  height= 31.0  oele= 21.0
+n= 620  SID=[b'K' b'D' b'A' b'N' b' ']  diff= 0.001042366  ufo= -0.9246354  gsi= -0.92359304 lat= 36.57  lon= 280.67  otype= 287  oflag= -1  height= 184.0  oele= 174.0
+n= 621  SID=[b'K' b'A' b'V' b'C' b' ']  diff= 0.0005983729  ufo= 0.028761605  gsi= 0.029359978 lat= 36.69  lon= 281.95  otype= 287  oflag= -1  height= 145.0  oele= 135.0
+n= 622  SID=[b'K' b'E' b'M' b'V' b' ']  diff= 0.0019972324  ufo= -1.0873944  gsi= -1.0853971 lat= 36.69  lon= 282.52  otype= 287  oflag= -1  height= 49.0  oele= 39.0
+n= 623  SID=[b'K' b'L' b'V' b'L' b' ']  diff= 0.0016822815  ufo= -0.89553773  gsi= -0.89385545 lat= 36.77  lon= 282.21  otype= 287  oflag= -1  height= 110.0  oele= 100.0
+n= 624  SID=[b'7' b'2' b'3' b'1' b'7']  diff= 0.0019612312  ufo= -2.7133348  gsi= -2.7113736 lat= 36.0975  lon= 280.06277  otype= 281  oflag= -1  height= 287.0  oele= 277.0
+listing done 
+===========================
