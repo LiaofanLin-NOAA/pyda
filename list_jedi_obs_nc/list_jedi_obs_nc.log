@@ -1,0 +1,70 @@
+ 
+===================================================
+PRINTING GENERAL INFORMATION
+===================================================
+--- File Name ---
+  sondes_tsen_obs_2021090319.nc4
+ 
+--- All Variables ---
+  air_temperature@GsiUseFlag
+  air_temperature@ObsType
+  air_temperature@PreQC
+  air_temperature@PreUseFlag
+  air_temperature@EffectiveQC0
+  air_temperature@EffectiveQC1
+  air_temperature@EffectiveQC2
+  record_number@MetaData
+  air_pressure@MetaData
+  air_temperature@GsiAdjustObsError
+  air_temperature@GsiFinalObsError
+  air_temperature@GsiHofX
+  air_temperature@GsiHofXBc
+  air_temperature@GsiQCWeight
+  air_temperature@ObsError
+  air_temperature@ObsValue
+  air_temperature@hofx0
+  air_temperature@EffectiveError0
+  air_temperature@EffectiveError
+  air_temperature@ombg
+  air_temperature@hofx1
+  air_temperature@EffectiveError1
+  air_temperature@hofx2
+  air_temperature@EffectiveError2
+  air_temperature@oman
+  geopotential_height@MetaData
+  latitude@MetaData
+  longitude@MetaData
+  station_elevation@MetaData
+  station_id@MetaData
+  variable_names@VarMetaData
+  datetime@MetaData
+ 
+===================================================
+PRINTING INFORMATION FOR SPECIFIC VARIABLE: air_pressure@MetaData
+===================================================
+--- The Total Length of the Data ---
+  -> 65
+ 
+--- Size of Data Under Some Pressure Levels [unit in Pa] ---
+  -> From 0 to 10000: 26
+  -> From 10000 to 20000: 18
+  -> From 20000 to 30000: 16
+  -> From 30000 to 40000: 5
+  -> From 40000 to 50000: 0
+  -> From 50000 to 60000: 0
+  -> From 60000 to 70000: 0
+  -> From 70000 to 80000: 0
+  -> From 80000 to 90000: 0
+  -> From 90000 to 100000: 0
+ 
+===================================================
+PRINTING INFORMATION FOR SPECIFIC VARIABLE: air_temperature@ObsType
+===================================================
+--- The Total Length of the Data ---
+  -> 65
+ 
+--- Print the Content ---
+[120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120
+ 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120
+ 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120 120
+ 120 120 120 120 120 120 120 120 120 120 120]
