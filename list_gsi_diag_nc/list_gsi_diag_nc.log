@@ -1,0 +1,66 @@
+ 
+===================================================
+PRINTING GENERAL INFORMATION
+===================================================
+--- File Name ---
+  diag_conv_t_ges.2021090319.nc4
+ 
+--- All Variables ---
+  Station_ID
+  Observation_Class
+  Observation_Type
+  Observation_Subtype
+  Latitude
+  Longitude
+  Station_Elevation
+  Pressure
+  Height
+  Time
+  Prep_QC_Mark
+  Setup_QC_Mark
+  Prep_Use_Flag
+  Analysis_Use_Flag
+  Nonlinear_QC_Rel_Wgt
+  Errinv_Input
+  Errinv_Adjust
+  Errinv_Final
+  Observation
+  Obs_Minus_Forecast_adjusted
+  Obs_Minus_Forecast_unadjusted
+  Forecast_unadjusted
+  Forecast_adjusted
+  Data_Pof
+  surface_pressure
+  surface_temperature
+  surface_roughness
+  landmask
+  Bias_Correction_Terms
+  virtual_temperature
+  air_temperature
+  specific_humidity
+  northward_wind
+  eastward_wind
+  geopotential_height
+  atmosphere_pressure_coordinate
+ 
+===================================================
+PRINTING INFORMATION FOR SPECIFIC VARIABLE: Observation_Type
+===================================================
+ 
+--- Total Length of the Data ---
+  -> 91412
+ 
+--- All Available Data Types ---
+  -> [120 126 180 181 183 187 188 193 194 195]
+ 
+--- Size of Each Data Type ---
+  -> Obs Type 120: 134
+  -> Obs Type 126: 104
+  -> Obs Type 180: 1216
+  -> Obs Type 181: 11
+  -> Obs Type 183: 181
+  -> Obs Type 187: 3002
+  -> Obs Type 188: 54691
+  -> Obs Type 193: 50
+  -> Obs Type 194: 149
+  -> Obs Type 195: 31874
